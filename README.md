@@ -13,9 +13,10 @@ g++ main.cpp -o main -lncurses
 **g++ main.cpp -o main -lncurses**  
 **THIS_DIR=$(pwd)**  
 cd ~  
-**if [ -d .local ]; then mv .local; else mkdir .local; mv .local; fi**  
-**if [ -d bin ]; then mv bin; else mkdir bin; mv bin; fi**  
-**cp "$THIS_DIR/main snoweffect"**  
+**if [ -d .local ]; then cd .local; else mkdir .local; cd .local; fi**  
+**if [ -d bin ]; then cd bin; else mkdir bin; cd bin; fi**  
+**cp "$THIS_DIR/main" snoweffect**  
+**cd $THIS_DIR**
 
 ### Ejecutar despues de instalar
 **snoweffect**  
