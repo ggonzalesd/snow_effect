@@ -6,16 +6,16 @@
 ..* Compilador `g++`  
 
 ## Compilar/Ejecutar
-**g++ main.cpp -o main -lncurses**  
-**./main**  
+g++ main.cpp -o main -lncurses  
+./main  
 
 ## Instalar
 **g++ main.cpp -o main -lncurses**  
 **THIS_DIR=$(pwd)**  
-**cd ~**  
+cd ~  
 **if [ -d .local ]; then mv .local; else mkdir .local; mv .local; fi**  
 **if [ -d bin ]; then mv bin; else mkdir bin; mv bin; fi**  
-**cp "$THIS_DIR/main snoweffect"  
+**cp "$THIS_DIR/main snoweffect"**  
 
 ### Ejecutar despues de instalar
 **snoweffect**  
