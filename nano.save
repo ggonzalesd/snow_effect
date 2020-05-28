@@ -1,0 +1,1387 @@
+Sorting... Full Text Search... ableton-link-utils/focal 3.0.2+dfsg-1build1 amd64 synchronizes musical applications on multiple devices - cmdline utils 
+abootimg/focal 0.6-1build1 amd64
+  Tool to read/write/update android boot images acetoneiso/focal 2.4-3build1 amd64 feature-rich application to mount and manage CD and DVD images 
+adlibtracker2/focal 2.4.24-1 i386
+  userfriendly tracker aimed for the OPL3 FM-chip aide/focal 0.16.1-1build2 amd64 Advanced Intrusion Detection Environment - static binary 
+aide-common/focal,focal 0.16.1-1build2 all
+  Advanced Intrusion Detection Environment - Common files aide-dynamic/focal 0.16.1-1build2 amd64 Advanced Intrusion Detection Environment - dynamic binary 
+aide-xen/focal 0.16.1-1build2 amd64
+  Advanced Intrusion Detection Environment - static binary for XEN am-utils/focal 6.2+rc20110530-3.2ubuntu2 amd64 automounter utilities from 4.4BSD (includes 
+  amd)
+amd64-microcode/focal,now 3.20191218.1ubuntu1 amd64 [installed,automatic] Processor microcode firmware for AMD CPUs apticron-systemd/focal,focal 1.2.3+nmu1 all 
+  Simple tool to mail about pending package updates - systemd version
+arch-test/focal,focal 0.16-2 all detect architectures supported by your machine/kernel array-info/focal 0.16-4 amd64 command line tool reporting RAID status 
+  for several RAID types
+auto-apt-proxy/focal,focal 12 all automatic detector of common APT proxy settings avahi-daemon/focal,now 0.7-4ubuntu7 amd64 [installed,automatic] Avahi 
+  mDNS/DNS-SD daemon
+ayatana-indicator-common/focal,focal 0.6.3-1 all libayatana-indicator shared files backupninja/focal,focal 1.1.0-2.1 all lightweight, extensible meta-backup 
+  system
+balboa-backend-common/focal 2.0.0+ds-3 amd64 Common files for balboa backends ballview/focal 1.5.0+git20180813.37fc53c-4build2 amd64 free molecular modeling 
+  and molecular graphics tool
+bibtexconv/focal 0.8.20-1build3 amd64 BibTeX Converter bmagic/focal,focal 5.0.0-1 all C++ template library for efficient platform independent bitsets 
+boinc-app-seti/focal 8.00~svn4035-1build1 amd64
+  SETI@home application for the BOINC client boinc-app-seti-graphics/focal 8.00~svn4035-1build1 amd64 SETI@home application for the BOINC client (with 
+  graphics)
+boinc-client-opencl/focal 7.16.6+dfsg-1 amd64 metapackage for AMD/ATI OpenCL-savvy BOINC client and manager bootparamd/focal 0.17-10 amd64 Boot parameter 
+  server
+botan/focal 2.12.1-2build1 amd64 multiplatform crypto library (2.x version) brltty/focal,now 6.0+dfsg-4ubuntu6 amd64 [installed,automatic] Access software for 
+  a blind person using a braille display
+cacti-spine/focal 1.2.6-1build1 amd64 Multi-Threading poller for cacti caja-gtkhash/focal 1.2-1build1 amd64 caja extension for computing checksums and more 
+  using gtkhash
+canmatrix-utils/focal,focal 0.9.1~github-1 all Handle CAN (Controller Area Network) descriptions - cmdline utilities carettah/focal 0.5.1-2build3 amd64 
+  presentation tool that renders Markdown
+cd5/focal 0.1-4 amd64 Compute checksum of individual track on CD-ROMS ceph-base/focal-updates 15.2.1-0ubuntu2 amd64 common ceph daemon libraries and management 
+  tools
+ceph-mds/focal-updates 15.2.1-0ubuntu2 amd64 metadata server for the ceph distributed file system cephadm/focal-updates 15.2.1-0ubuntu2 amd64 cephadm utility 
+  to bootstrap ceph daemons with systemd and containers
+charon-cmd/focal 5.8.2-1ubuntu3 amd64 standalone IPsec client charon-systemd/focal 5.8.2-1ubuntu3 amd64 strongSwan IPsec client, systemd support chezdav/focal 
+2.4-1 amd64
+  simple tool to share a directory with WebDAV chkservice/focal 0.3-1build1 amd64 Tool for managing systemd units cinnamon-session/focal 4.4.1-1 amd64 Cinnamon 
+  Session Manager - Minimal runtime
+cksfv/focal 1.3.14-2build1 amd64 sfv checker and generator cl-md5/focal,focal 1:20180224.gitb141260-1 all Common Lisp package for MD5 Message Digests 
+cl-uuid/focal,focal 20130813-1 all
+  Common Lisp librabry for generation of UUIDs as described by RFC 4122 clamdscan/focal-updates,focal-security 0.102.3+dfsg-0ubuntu0.20.04.1 amd64 anti-virus 
+  utility for Unix - scanner client
+clamfs/focal 1.2.0-2build1 amd64 user-space anti-virus protected file system claws-mail-clamd-plugin/focal 3.17.5-2 amd64 ClamAV socket-based plugin for Claws 
+  Mail
+clblas-client/focal 2.12-1ubuntu1 amd64 client program for clBLAS clevis-systemd/focal-updates 12-1ubuntu2.1 amd64 systemd integration for clevis 
+cmdreader/focal,focal 1.5-2 all
+  Library that parses command line arguments cmdtest/focal,focal 0.32.14.gcdfe14e-1 all blackbox testing of Unix command line programs cme/focal,focal 1.031-1 
+all
+  Check or edit configuration data with Config::Model config-package-dev/focal,focal 5.5 all Debhelper (and CDBS) modules for building configuration packages 
+conmon/focal 2.0.9-1 amd64
+  OCI container runtime monitor cons/focal,focal 2.3.0.1+2.2.0-2 all a Perl replacement for Make coreutils/focal,now 8.30-3ubuntu2 amd64 [installed,automatic] 
+  GNU core utilities
+cp2k/focal 6.1-3ubuntu2 amd64 Ab Initio Molecular Dynamics cp2k-data/focal,focal 6.1-3ubuntu2 all Ab Initio Molecular Dynamics (data files) 
+cpp-10-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386
+  GNU C preprocessor cpp-9-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU C preprocessor cpp-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU C 
+  preprocessor (cpp) for the amd64 architecture
+cpuid/focal 20200211-1 amd64 tool to dump x86 CPUID information about the CPU(s) crack-common/focal,focal 5.0a-12 all Password guessing program (common files 
+  of all variants)
+crack-md5/focal 5.0a-12 amd64 Password guessing program (MD5 variant) crossbuild-essential-amd64/focal,focal 12.8ubuntu1 all Informational list of 
+  cross-build-essential packages
+ctop/focal,focal 1.0.0-2 all Command line / text based Linux Containers monitoring tool customdeb/focal,focal 0.1 all Modfies binary Debian package 
+dbus-user-session/focal,now 1.12.16-2ubuntu2 amd64 [installed,automatic]
+  simple interprocess messaging system (systemd --user integration) dc3dd/focal 7.2.646-3 amd64 patched version of GNU dd with forensic features 
+ddgr/focal,focal 1.7+git20190928.bccdc92-2 all
+  DuckDuckGo from the terminal ddupdate/focal,focal 0.6.4-1 all Tool updating DNS data for dynamic IP addresses debian-cloud-images/focal,focal 0.0.1 all tool 
+  used by the Debian Cloud Team to create official cloud images
+debootstick/focal 2.4 amd64 Turn a chroot environment into a bootable image debspawn/focal,focal 0.4.0-1 all Build in nspawn containers debsums/focal,focal 
+2.2.5 all
+  tool for verification of installed package files against MD5 checksums default-jdk/focal 2:1.11-72 amd64 Standard Java or Java compatible Development Kit 
+default-jdk-doc/focal 2:1.11-72 amd64
+  Standard Java or Java compatible Development Kit (documentation) default-jdk-headless/focal,now 2:1.11-72 amd64 [installed,automatic] Standard Java or Java 
+  compatible Development Kit (headless)
+default-jre/focal,now 2:1.11-72 amd64 [installed,automatic] Standard Java or Java compatible Runtime default-jre-headless/focal,now 2:1.11-72 amd64 
+[installed,automatic]
+  Standard Java or Java compatible Runtime (headless) designate-mdns/focal,focal 1:10.0.0~b3~git2020041012.9ed2623a-0ubuntu1 all OpenStack DNS as a Service - 
+  mdns
+devscripts/focal 2.20.2ubuntu2 amd64 scripts to make the life of a Debian Package maintainer easier dh-ocaml/focal,focal 1.1.1 all helper tools for maintaining 
+  OCaml-related Debian packages
+dh-systemd/focal,focal 12.10ubuntu1 all debhelper add-on to handle systemd unit files - transitional package di-netboot-assistant/focal,focal 0.67 all 
+  Debian-Installer netboot assistant
+dicomnifti/focal 2.33.1-1build1 amd64 converts DICOM files into the NIfTI format diskimage-builder-doc/focal,focal 2.35.0-0ubuntu1 all image building tools for 
+  Openstack - doc
+dlocate/focal,focal 1.07+nmu1 all fast alternative to dpkg -L and dpkg -S dms-core/focal 1.0.8.1-1ubuntu2 amd64 bind9 DNS Management System, core system 
+docker-doc/focal,focal 19.03.8-0ubuntu1 all
+  Linux container runtime -- documentation docker.io/focal 19.03.8-0ubuntu1 amd64 Linux container runtime docker2aci/focal 0.17.2+dfsg-2 amd64 CLI tool to 
+  convert Docker images to ACIs
+docx2txt/focal,focal 1.4-2 all Convert Microsoft OOXML files to plain text doublecmd-common/focal,focal 0.9.8-1 all twin-panel (commander-style) file manager 
+doublecmd-gtk/focal 0.9.8-1 amd64
+  twin-panel (commander-style) file manager (GTK2) doublecmd-help-en/focal,focal 0.9.7-1 all Documentation for Double Commander (English) 
+doublecmd-help-ru/focal,focal 0.9.7-1 all
+  Documentation for Double Commander (Russian) doublecmd-help-uk/focal,focal 0.9.7-1 all Documentation for Double Commander (Ukrainian) doublecmd-plugins/focal 
+0.9.8-1 amd64
+  twin-panel (commander-style) file manager (plugins) doublecmd-qt/focal 0.9.8-1 amd64 twin-panel (commander-style) file manager (Qt5) 
+dovecot-auth-lua/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - Lua authentication plugin dovecot-core/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - core files 
+dovecot-dev/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - header files dovecot-gssapi/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - GSSAPI support 
+dovecot-imapd/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - IMAP daemon dovecot-ldap/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - LDAP support 
+dovecot-lmtpd/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - LMTP server dovecot-lucene/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - Lucene support 
+dovecot-managesieved/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - ManageSieve server dovecot-mysql/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - MySQL support 
+dovecot-pgsql/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - PostgreSQL support dovecot-pop3d/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - POP3 daemon 
+dovecot-sieve/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - Sieve filters support dovecot-solr/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - Solr support 
+dovecot-sqlite/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64
+  secure POP3/IMAP server - SQLite support dovecot-submissiond/focal-updates,focal-security 1:2.3.7.2-1ubuntu3.1 amd64 secure POP3/IMAP server - mail 
+  submission agent
+dracut-core/focal 048+80-2 amd64 dracut is an event driven initramfs infrastructure (core tools) dracut-network/focal,focal 048+80-2 all dracut is an event 
+  driven initramfs infrastructure (network modules)
+duck/focal,focal 0.13 all checks URLs in debian/control and debian/upstream files dumb-init/focal 1.2.2-1.2 amd64 wrapper script which proxies signals to a 
+  child
+elpa-f/focal,focal 0.20.0-2 all modern API for working with files and directories in Emacs Lisp elpa-systemd/focal,focal 1.6-2 all major mode for editing 
+  systemd units
+emdebian-archive-keyring/focal,focal 2.2 all GnuPG archive keys for the emdebian repository enamdict/focal,focal 2019.02.20-1 all Dictionary of Japanese proper 
+  names
+env2/focal,focal 1.1.0-4 all convert environment variables between scripting languages esmtp/focal 1.2-17 amd64 user configurable relay-only MTA 
+esmtp-run/focal,focal 1.2-17 all
+  user configurable relay-only MTA - the regular MTA etqw-server/focal 64 i386 dedicated server for Enemy Territory: Quake Wars extract/focal 1:1.9-3 amd64 
+  displays meta-data from files of arbitrary type
+fail2ban/focal,focal 0.11.1-1 all ban hosts that cause multiple authentication errors fbreader/focal 0.12.10dfsg2-4build1 amd64 e-book reader 
+fccexam/focal,focal 1.0.7-1 all
+  Study tool for USA FCC commercial radio license exams. fcml/focal 1.2.0-2 amd64 single-line assembler and disassembler fdupes/focal 1:1.6.1-2 amd64 
+  identifies duplicate files within given directories
+fdutils/focal 5.5-20060227-8 amd64 Linux floppy utilities fence-agents/focal 4.5.2-1 amd64 Fence Agents for Red Hat Cluster fetch-crl/focal,focal 3.0.20-1 all 
+  Downloads Certificate Revocation Lists
+finalrd/focal,focal 5 all final runtime directory for shutdown fonts-noto-extra/focal,focal,now 20200323-1 all [installed,automatic] "No Tofu" font families 
+  with large Unicode coverage (extra)
+fonts-noto-ui-extra/focal,focal 20200323-1 all "No Tofu" font families with large Unicode coverage (UI extra) fonts-sil-shimenkan-guifan/focal,focal 1.000-2 
+all
+  Miao (Pollard) fonts for Large Flowery Miao, normalised orthography [hmdd] fonts-sil-shimenkan-sapushan/focal,focal 1.000-2 all Miao (Pollard) fonts for 
+  Large Flowery Miao / Dahua Miao / A-Hmao [hmd]
+forensics-all/focal,focal 3.18 all Debian Forensics Environment - essential components (metapackage) forensics-extra/focal,focal 2.14 all Forensics Environment 
+  - extra console components (metapackage)
+freedv/focal 1.4-2 amd64 Software Defined Radio (SDR) frr-pythontools/focal,focal 7.2.1-1 all FRRouting suite - Python tools fuse-emulator-gtk/focal 
+1.5.7+dfsg1-3 amd64
+  The Free Unix Spectrum Emulator (GTK+ version) fuse-emulator-sdl/focal 1.5.7+dfsg1-3 amd64 The Free Unix Spectrum Emulator (SDL version) fuseiso/focal 
+20070708-3.2build1 amd64
+  FUSE module to mount ISO filesystem images fuzzylite/focal 6.0+dfsg-2build1 amd64 fuzzy logic control binary fwupd-amd64-signed-template/focal 1.3.9-4 amd64 
+  Template for signed fwupd package
+g++-10-multilib-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386 GNU C++ compiler (multilib support) (cross compiler for amd64 architecture) 
+g++-10-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386
+  GNU C++ compiler (cross compiler for amd64 architecture) g++-9-multilib-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU C++ compiler (multilib support) 
+  (cross compiler for amd64 architecture)
+g++-9-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU C++ compiler (cross compiler for amd64 architecture) g++-multilib-x86-64-linux-gnu/focal 
+4:9.3.0-1ubuntu2 i386
+  GNU C++ compiler for the amd64 architecture g++-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU C++ compiler for the amd64 architecture 
+galileo-daemon/focal,focal 0.5.1-6 all
+  Utility to securely synchronize a Fitbit device - daemon gambas3-gb-form-mdi/focal,focal 3.14.3-2ubuntu3.1 all Gambas native mdi form component 
+gambas3-gb-opengl-sge/focal 3.14.3-2ubuntu3.1 amd64
+  Gambas SDL Game Engine gamemode/focal,now 1.5.1-0ubuntu3 amd64 [installed,automatic] Optimise Linux system performance on demand 
+gcc-10-multilib-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386
+  GNU C compiler (multilib support) (cross compiler for amd64 architecture) gcc-10-offload-amdgcn/focal 10-20200411-0ubuntu1 amd64 GCC offloading compiler to 
+  GCN
+gcc-10-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386 GNU C compiler (cross compiler for amd64 architecture) gcc-9-multilib-x86-64-linux-gnu/focal 
+9.3.0-10ubuntu1cross2 i386
+  GNU C compiler (multilib support) (cross compiler for amd64 architecture) gcc-9-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU C compiler (cross 
+  compiler for amd64 architecture)
+gcc-multilib-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU C compiler for the amd64 architecture gcc-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU C 
+  compiler for the amd64 architecture
+gccgo-10-multilib-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386 GNU Go compiler (multilib support) (cross compiler for amd64 architecture) 
+gccgo-9-multilib-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386
+  GNU Go compiler (multilib support) (cross compiler for amd64 architecture) gccgo-multilib-x86-64-linux-gnu/focal 4:10.0-1ubuntu2 i386 Go compiler (based on 
+  GCC) for the amd64 architecture
+gccgo-x86-64-linux-gnu/focal 4:10.0-1ubuntu2 i386 Go compiler (based on GCC) for the amd64 architecture gdc-10-multilib-x86-64-linux-gnu/focal 
+10-20200411-0ubuntu1cross1 i386
+  GNU D compiler (version 2, multilib support) (cross compiler for amd64 architecture) gdc-10-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386 GNU D 
+  compiler (version 2) (cross compiler for amd64 architecture)
+gdc-9-multilib-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU D compiler (version 2, multilib support) (cross compiler for amd64 architecture) 
+gdc-9-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386
+  GNU D compiler (version 2) (cross compiler for amd64 architecture) gdc-multilib-x86-64-linux-gnu/focal 4:10.0-1ubuntu2 i386 GNU D compiler (based on GCC) for 
+  the amd64 architecture
+gdc-x86-64-linux-gnu/focal 4:10.0-1ubuntu2 i386 GNU D compiler (based on GCC) for the amd64 architecture gdmd/focal,focal 2.100+git200102-1 all DMD-like 
+  wrapper for GDC
+gedit/focal-updates,now 3.36.2-0ubuntu1 amd64 [installed,automatic] official text editor of the GNOME desktop environment gedit-dev/focal-updates 
+3.36.2-0ubuntu1 amd64
+  official text editor of the GNOME desktop environment (development files) gemdropx/focal 0.9-8 amd64 Gem Drop X is an interesting one-player puzzle game for 
+  X11
+gfmd/focal 2.7.15+dfsg-1 amd64 Gfarm file system metadata server gfortran-10-multilib-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386 GNU Fortran 
+  compiler (multilib support) (cross compiler for amd64 architecture)
+gfortran-9-multilib-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU Fortran compiler (multilib support) (cross compiler for amd64 architecture) 
+gfortran-multilib-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386
+  GNU Fortran 95 compiler for the amd64 architecture gfortran-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU Fortran 95 compiler for the amd64 architecture 
+gir1.2-libvirt-sandbox-1.0/focal 0.5.1+git20160404-1ubuntu2 amd64
+  GObject introspection files for the libvirt-sandbox library gir1.2-pluma-1.0/focal 1.24.0-1 amd64 GObject introspection data for Pluma gkrellmd/focal 
+2.3.10-2build2 amd64
+  GNU Krell Monitors Server gkrelltopd/focal 2.2.13-1 amd64 Top three intensive processes plugin for gkrellmd gm2-10-x86-64-linux-gnu/focal 
+10-20200411-0ubuntu1cross1 i386
+  GNU Modula-2 compiler (cross compiler for amd64 architecture) gm2-9-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU Modula-2 compiler (cross compiler 
+  for amd64 architecture)
+gm2-x86-64-linux-gnu/focal 4:10.0-1ubuntu2 i386 GNU Modula-2 compiler (based on GCC) for the amd64 architecture gmpc-plugins/focal 11.8.16-4 amd64 Plugins for 
+  the GNOME Music Player Client
+gnome-logs/focal,now 3.34.0-1 amd64 [installed,automatic] viewer for the systemd journal go-md2man/focal 1.0.10+ds-1 amd64 utility to create manpages from 
+  markdown
+gobjc++-multilib-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU Objective-C++ compiler for the amd64 architecture gobjc++-x86-64-linux-gnu/focal 
+4:9.3.0-1ubuntu2 i386
+  GNU Objective-C++ compiler for the amd64 architecture gobjc-10-multilib-x86-64-linux-gnu/focal 10-20200411-0ubuntu1cross1 i386 GNU Objective-C compiler 
+  (multilib support) (cross compiler for amd64 architecture)
+gobjc-9-multilib-x86-64-linux-gnu/focal 9.3.0-10ubuntu1cross2 i386 GNU Objective-C compiler (multilib support) (cross compiler for amd64 architecture) 
+gobjc-multilib-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386
+  GNU Objective-C compiler for the amd64 architecture gobjc-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386 GNU Objective-C compiler for the amd64 architecture 
+golang-blitiri-go-log-dev/focal,focal 0.0+git20170910.0.2b2e1b6-1 all
+  Simple logging library in Go golang-blitiri-go-systemd-dev/focal,focal 0.0+git20170821.0.aec3508-1 all Utilities to interact with systemd sockets in Go 
+golang-coreos-log-dev/focal,focal 0.0~git20140508-5 all
+  simple logging library for Go golang-github-abbot-go-http-auth-dev/focal,focal 0.4.0-4 all Basic and Digest HTTP Authentication for golang http 
+golang-github-appc-docker2aci-dev/focal,focal 0.17.2+dfsg-2 all
+  library to convert Docker images to ACIs golang-github-bmatsuo-lmdb-go-dev/focal,focal 1.8.0+git20170215.a14b5a3-2 all Bindings for the LMDB C library 
+golang-github-boltdb-bolt-dev/focal,focal 1.3.1-6 all
+  low-level key/value database for Go golang-github-chmduquesne-rollinghash-dev/focal,focal 4.0.0-1 all Implementation of some rolling checksums in golang 
+golang-github-coreos-bbolt-dev/focal,focal 1.3.3-1 all
+  low-level key/value database for Go, especially CoreOS's etcd golang-github-coreos-go-systemd-dev/focal,focal 22.0.0-1 all Go client bindings for systemd 
+  socket activation, journal and D-Bus
+golang-github-cpuguy83-go-md2man-dev/focal,focal 1.0.10+ds-1 all utility to create manpages from markdown (source) 
+golang-github-dgryski-go-bits-dev/focal,focal 0.0~git20180112.bd8a69a-2 all
+  amd64 optimized bit operations golang-github-docker-notary-dev/focal,focal 0.6.1~ds2-5 all library for running and interacting with trusted collections 
+golang-github-edsrzf-mmap-go-dev/focal,focal 0.0~git20170320.0.0bce6a6-5 all
+  portable mmap package for Go golang-github-facebookgo-grace-dev/focal,focal 0.0~git20170218.0.4afe952-6 all Graceful restart & zero downtime deploy for Go 
+  servers
+golang-github-gofrs-uuid-dev/focal,focal 3.2.0-2 all UUID library for Golang golang-github-hashicorp-go-memdb-dev/focal,focal 0.0~git20180224.1289e7ff-1 all 
+  in-memory database built on immutable radix trees
+golang-github-hashicorp-mdns-dev/focal,focal 1.0.1-1 all simple mDNS client/server library in Golang golang-github-imdario-mergo-dev/focal,focal 0.3.8-1 all 
+  Functions to merge structs and maps in Go
+golang-github-kardianos-service-dev/focal,focal 1.0.0-1 all run Go programs as a service on major platforms golang-github-kisielk-gotool-dev/focal,focal 
+0.0~git20161130.0.0de1eaf-4 all
+  library of some utility functions provided by cmd/go golang-github-miekg-mmark-dev/focal,focal 1.3.6+dfsg-2 all Markdown processor in Go geared for the IETF 
+  (Go library)
+golang-github-minio-blake2b-simd-dev/focal,focal 0.0~git20160723.3f5f724-2 all Fast hashing using pure Go implementation of BLAKE2b with SIMD instructions 
+golang-github-minio-sha256-simd-dev/focal,focal 0.1.1-1 all
+  implementation of SHA256 using SIMD instructions for Intel and ARM golang-github-muesli-crunchy-dev/focal,focal 0.2-1 all finds common flaws in passwords 
+golang-github-nebulouslabs-bolt-dev/focal,focal 1.0+git20170823.0.a22e934-1 all
+  low-level key/value database for Go golang-github-okzk-sdnotify-dev/focal,focal 0.0~git20180710.d9becc3-3 all systemd's service notification protocol 
+  (sd_notify)
+golang-github-ryszard-goskiplist-dev/focal,focal 0.0~git20150312.2dfbae5-2 all A skip list implementation in Go golang-github-twinj-uuid-dev/focal,focal 
+0.10.0+git20160909.96.7bbe408-4 all
+  RFC 4122 and DCE 1.1 compliant UUIDs in Go golang-gopkg-hlandau-svcutils.v1-dev/focal,focal 1.0.10-6 all utilities for writing services in Go gpsbabel/focal 
+1.6.0+ds-10build1 amd64
+  GPS file conversion plus transfer to/from GPS units gpustat/focal,focal 0.6.0-1 all pretty nvidia device monitor grilo-plugins-0.3-extra/focal 
+0.3.11-1ubuntu1 amd64
+  Framework for discovering and browsing media - Extra Plugins grub-efi/focal 2.04-1ubuntu26 amd64 GRand Unified Bootloader, version 2 (dummy package) 
+grub-efi-amd64/focal 2.04-1ubuntu26 amd64
+  GRand Unified Bootloader, version 2 (EFI-AMD64 version) grub-efi-amd64-bin/focal,now 2.04-1ubuntu26 amd64 [installed,automatic] GRand Unified Bootloader, 
+  version 2 (EFI-AMD64 modules)
+grub-efi-amd64-dbg/focal 2.04-1ubuntu26 amd64 GRand Unified Bootloader, version 2 (EFI-AMD64 debug files) grub-efi-amd64-signed/focal,now 1.142+2.04-1ubuntu26 
+amd64 [installed]
+  GRand Unified Bootloader, version 2 (EFI-AMD64 version, signed) grub-efi-amd64-signed-template/focal 2.04-1ubuntu26 amd64 GRand Unified Bootloader, version 2 
+  (EFI-AMD64 signing template)
+grub-imageboot/focal,focal 0.6 all boot iso, harddisk and floppy images with grub2 and syslinux memdisk gtkhash/focal 1.2-1build1 amd64 GTK+ utility for 
+  computing checksums and more
+hashcat/focal 5.1.0+ds1-2 amd64 World's fastest and most advanced password recovery utility hashdeep/focal 4.4-6build1 amd64 recursively compute hashsums or 
+  piecewise hashings
+hashrat/focal 1.10.4-1 amd64 hashing tool supporting several hashes and recursivity heimdal-clients/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - clients 
+heimdal-dev/focal 7.7.0+dfsg-1ubuntu1 amd64
+  Heimdal Kerberos - development files heimdal-docs/focal,focal 7.7.0+dfsg-1ubuntu1 all Heimdal Kerberos - documentation heimdal-kcm/focal 7.7.0+dfsg-1ubuntu1 
+amd64
+  Heimdal Kerberos - KCM daemon heimdal-kdc/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - key distribution center (KDC) heimdal-multidev/focal 
+7.7.0+dfsg-1ubuntu1 amd64
+  Heimdal Kerberos - Multi-implementation Development heimdal-servers/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - server programs heimdall-flash/focal 
+1.4.2+dfsg-1 amd64
+  tool for flashing firmware on Samsung Galaxy S devices heimdall-flash-frontend/focal 1.4.2+dfsg-1 amd64 tool for flashing firmware on Samsung Galaxy S 
+  devices - Qt GUI
+hobbit-plugins/focal,focal 20191218 all plugins for the Xymon network monitor iat/focal 0.1.3-7build1 amd64 Converts many CD-ROM image formats to iso9660 
+ikarus/focal 0.0.3+bzr.2010.01.26-4ubuntu3 amd64
+  Scheme compiler and interpreter im/focal,focal 1:153-3 all mail/news handling commands and Perl modules imediff/focal,focal 2.2-1 all interactive full screen 
+  2/3-way merge tool
+indicator-common/focal,focal 16.10.0+18.04.20180321.1-0ubuntu4 all indicator shared files indigo-utils/focal 1.2.3-3build1 amd64 Organic Chemistry Toolkit 
+  Utilities
+init-system-helpers/focal,focal,now 1.57 all [installed,automatic] helper tools for all init systems installation-guide-amd64/focal,focal 20160121ubuntu9 all 
+  Ubuntu installation guide for amd64
+intel-microcode/focal,now 3.20191115.1ubuntu3 amd64 [installed,automatic] Processor microcode firmware for Intel CPUs intel-mkl/focal 2020.0.166-1 amd64 Intel® 
+  Math Kernel Library (Intel® MKL)
+ironic-inspector/focal,focal 1:10.0.1~git2020041316.14b425e-0ubuntu1 all discovering hardware properties for OpenStack Ironic - Daemon 
+irssi-scripts/focal,focal 20200223 all
+  collection of scripts for irssi isomd5sum/focal 1:1.2.3-4build1 amd64 ISO9660 checksum utilities isync/focal 1.3.0-2 amd64 IMAP and MailDir mailbox 
+  synchronizer
+jameica/focal,focal 2.8.6+dfsg-1 all Run-time system for Java applications jasper/focal,focal 0.69 all Configure a preinstalled ext2/3 system image 
+jattach/focal 1.5-2 amd64
+  JVM Dynamic Attach utility all in one jmap jstack jcmd jinfo jigit/focal 1.22-3build1 amd64 tools for working with jigdo files jmdlx/focal 0.4-10build1 amd64 
+  jugglemaster deluxe using wxWidgets
+jmol/focal,focal 14.6.4+2016.11.05+dfsg1-4build1 all Molecular Viewer jmol-applet/focal,focal 14.6.4+2016.11.05+dfsg1-4build1 all Jmol Java applet 
+joyent-mdata-client/focal 0.0.1-0ubuntu3 amd64
+  metadata client for use on SmartOS hyper-visor kamailio-systemd-modules/focal 5.3.2-1build3 amd64 systemd logging modules for the Kamailio SIP server 
+kde-config-systemd/focal 1.2.1-3.1 amd64
+  KDE control center module for Systemd kernelshark/focal 2.8.3-4build1 amd64 Utilities for graphically analyzing function tracing in the kernel. 
+kicad-demos/focal,focal 5.1.5+dfsg1-2build2 all
+  Demo projects for kicad kipi-plugins/focal 4:19.12.3-1ubuntu2 amd64 image manipulation/handling plugins for KIPI aware programs 
+kipi-plugins-common/focal,focal 4:19.12.3-1ubuntu2 all
+  kipi-plugins architecture-independent data kopano-spamd/focal,focal 8.7.0-7ubuntu1 all Complete and feature rich groupware solution - Spam daemon 
+kphotoalbum/focal 5.6.1-1 amd64
+  tool for indexing, searching and viewing images by keywords for KDE kramdown/focal,focal 1.17.0-4 all Fast, pure-Ruby Markdown-superset converter - kramdown 
+  command
+krb5-multidev/focal 1.17-6ubuntu4 amd64 development files for MIT Kerberos without Heimdal conflict krb5-strength/focal 3.1-2 amd64 Password strength checking 
+  for Kerberos KDCs
+krb5-sync-plugin/focal 3.1-2 amd64 MIT Kerberos Active Directory synchronization plugin kvirc/focal 4:5.0.0+dfsg-2build2 amd64 KDE-based next generation IRC 
+  client with module support
+kvirc-modules/focal 4:5.0.0+dfsg-2build2 amd64 KVIrc (IRC client) modules ldap-account-manager-lamdaemon/focal,focal 6.7-1 all Quota and home directory 
+  management for LDAP Account Manager
+ldc/focal 1:1.20.1-1 amd64 LLVM D Compiler lib32asan5-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all AddressSanitizer -- a fast memory error detector 
+  (32bit)
+lib32asan6-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all AddressSanitizer -- a fast memory error detector (32bit) lib32atomic1-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  support library providing __atomic built-in functions (32bit) lib32gcc-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC support library (32 
+  bit development files)
+lib32gcc-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all GCC support library (32 bit development files) lib32gcc-9-dev-amd64-cross/focal,focal 
+9.3.0-10ubuntu1cross2 all
+  GCC support library (32 bit development files) lib32gcc-s1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC support library (32 bit Version) 
+lib32gfortran-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Fortran applications (32bit development files) lib32gfortran-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library 
+  for GNU Fortran applications (32bit development files)
+lib32gfortran-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Fortran applications (32bit development files) 
+lib32gfortran5-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Fortran applications (32bit) lib32go-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library for GNU Go 
+  applications (32bit development files)
+lib32go-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Go applications (32bit development files) 
+lib32go13-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  Runtime library for GNU Go applications (32bit) lib32go14-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Go applications (32bit) 
+lib32go16-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Go applications (32bit) lib32gomp1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC OpenMP (GOMP) support library (32bit) 
+lib32gphobos-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Phobos D standard library (32bit development files) lib32gphobos-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Phobos D standard library (32bit 
+  development files)
+lib32gphobos-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Phobos D standard library (32bit development files) lib32gphobos1-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  Phobos D standard library (runtime library) lib32gphobos76-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Phobos D standard library (runtime library) 
+lib32itm1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  GNU Transactional Memory Library (32bit) lib32lsan0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all LeakSanitizer -- a memory leak detector (32bit) 
+lib32mpx2-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  Intel memory protection extensions (32bit) lib32objc-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library for GNU Objective-C 
+  applications (32bit development files)
+lib32objc-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library for GNU Objective-C applications (32bit development files) 
+lib32objc-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all
+  Runtime library for GNU Objective-C applications (32bit development files) lib32objc4-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library 
+  for GNU Objective-C applications (32bit)
+lib32quadmath0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC Quad-Precision Math Library (32bit) lib32stdc++-10-dev-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  GNU Standard C++ Library v3 (development files) (amd64 lib32stdc++-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all GNU Standard C++ Library v3 
+  (development files) (amd64)
+lib32stdc++-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all GNU Standard C++ Library v3 (development files) (amd64 
+lib32stdc++6-10-dbg-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  GNU Standard C++ Library v3 (debug build) (amd64) lib32stdc++6-8-dbg-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all GNU Standard C++ Library v3 (debug 
+  build) (amd64)
+lib32stdc++6-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Standard C++ Library v3 (32 bit Version) lib32ubsan1-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  UBSan -- undefined behaviour sanitizer (32bit) libamd2/focal 1:5.7.1+dfsg-2 amd64 approximate minimum degree ordering library for sparse matrices 
+libamu-dev/focal 6.2+rc20110530-3.2ubuntu2 amd64
+  Support library for amd the 4.4BSD automounter (development) libamu4/focal 6.2+rc20110530-3.2ubuntu2 amd64 Support library for amd the 4.4BSD automounter 
+  (runtime)
+libapache2-mod-md/focal 2.4.41-4ubuntu3 amd64 transitional package libapp-cmd-perl/focal,focal 0.331-1 all Perl interface to write command line apps with less 
+  suffering
+libapp-cmd-plugin-prompt-perl/focal,focal 1.005-3 all plug prompting routines into your commands libasan5-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all 
+  AddressSanitizer -- a fast memory error detector
+libasan6-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all AddressSanitizer -- a fast memory error detector libasn1-8-heimdal/focal,now 
+7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic]
+  Heimdal Kerberos - ASN.1 library libatomic1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all support library providing __atomic built-in functions 
+libauthen-htpasswd-perl/focal,focal 0.171-2 all
+  Perl module to read and modify Apache .htpasswd files libauthen-krb5-admin-perl/focal 0.17-1build10 amd64 Perl extension for MIT Kerberos 5 admin interface 
+libavahi-client-dev/focal 0.7-4ubuntu7 amd64
+  Development files for the Avahi client library libavahi-client3/focal,now 0.7-4ubuntu7 amd64 [installed,automatic] Avahi client library 
+libavahi-core-dev/focal 0.7-4ubuntu7 amd64
+  Development files for Avahi's embeddable mDNS/DNS-SD library libavahi-core7/focal,now 0.7-4ubuntu7 amd64 [installed,automatic] Avahi's embeddable mDNS/DNS-SD 
+  library
+libb2-1/focal 0.98.1-1.1 amd64 BLAKE2 family of hash functions libb2-dev/focal 0.98.1-1.1 amd64 BLAKE2 family of hash functions -- development files 
+libblockdev-dev/focal 2.23-2ubuntu3 amd64
+  Library for manipulating block devices - development libblockdev-mdraid-dev/focal 2.23-2ubuntu3 amd64 MD RAID plugin for libblockdev - development 
+libblockdev-mdraid2/focal 2.23-2ubuntu3 amd64
+  MD RAID plugin for libblockdev libblockdev-plugins-all/focal 2.23-2ubuntu3 amd64 All plugins for libblockdev libblockdev2/focal,now 2.23-2ubuntu3 amd64 
+[installed,automatic]
+  Library for manipulating block devices libblosc-dev/focal 1.17.1+ds1-1 amd64 high performance meta-compressor optimized for binary data (development files) 
+libblosc1/focal,now 1.17.1+ds1-1 amd64 [installed,automatic]
+  high performance meta-compressor optimized for binary data libbotan-2-12/focal 2.12.1-2build1 amd64 multiplatform crypto library (2.x version) 
+libbotan-2-dev/focal 2.12.1-2build1 amd64
+  multiplatform crypto library (2.x version) libbotan-2-doc/focal,focal 2.12.1-2build1 all multiplatform crypto library (2.x version) 
+libbrowser-open-perl/focal,focal 0.04-1 all
+  Perl module to open a browser in a given URL libbsd-dev/focal 0.10.0-1 amd64 utility functions from BSD systems - development files 
+libbusiness-onlinepayment-payflowpro-perl/focal,focal 1.01-4 all
+  PayPal Payflow Pro backend for Business::OnlinePayment libc-icap-mod-virus-scan/focal 1:0.5.4-1 amd64 Antivirus Service for c-icap libc6-amd64/focal 
+2.31-0ubuntu9 i386
+  GNU C Library: 64bit Shared libraries for AMD64 libc6-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: Shared libraries (for cross-compiling) 
+libc6-amd64-i386-cross/focal,focal 2.31-0ubuntu7cross1 all
+  GNU C Library: 64bit Shared libraries for AMD64 (for cross-compiling) libc6-amd64-x32-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: 64bit Shared 
+  libraries for AMD64 (for cross-compiling)
+libc6-dbg-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: detached debugging symbols (for cross-compiling) libc6-dev-amd64/focal 2.31-0ubuntu9 
+i386
+  GNU C Library: 64bit Development Libraries for AMD64 libc6-dev-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: Development Libraries and 
+  Header Files (for cross-compiling)
+libc6-dev-amd64-i386-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: 64bit Development Libraries for AMD64 (for cross-compiling) 
+libc6-dev-amd64-x32-cross/focal,focal 2.31-0ubuntu7cross1 all
+  GNU C Library: 64bit Development Libraries for AMD64 (for cross-compiling) libc6-dev-i386/focal 2.31-0ubuntu9 amd64 GNU C Library: 32-bit development 
+  libraries for AMD64
+libc6-dev-i386-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: 32-bit development libraries for AMD64 (for cross-compiling) 
+libc6-dev-i386-x32-cross/focal,focal 2.31-0ubuntu7cross1 all
+  GNU C Library: 32-bit development libraries for AMD64 (for cross-compiling) libc6-dev-x32/focal 2.31-0ubuntu9 amd64 GNU C Library: X32 ABI Development 
+  Libraries for AMD64
+libc6-dev-x32-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: X32 ABI Development Libraries for AMD64 (for cross-compiling) 
+libc6-dev-x32-i386-cross/focal,focal 2.31-0ubuntu7cross1 all
+  GNU C Library: X32 ABI Development Libraries for AMD64 (for cross-compiling) libc6-i386/focal,now 2.31-0ubuntu9 amd64 [installed,automatic] GNU C Library: 
+  32-bit shared libraries for AMD64
+libc6-i386-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: 32-bit shared libraries for AMD64 (for cross-compiling) 
+libc6-i386-x32-cross/focal,focal 2.31-0ubuntu7cross1 all
+  GNU C Library: 32-bit shared libraries for AMD64 (for cross-compiling) libc6-x32/focal 2.31-0ubuntu9 amd64 GNU C Library: X32 ABI Shared libraries for AMD64 
+libc6-x32-amd64-cross/focal,focal 2.31-0ubuntu7cross1 all
+  GNU C Library: X32 ABI Shared libraries for AMD64 (for cross-compiling) libc6-x32-i386-cross/focal,focal 2.31-0ubuntu7cross1 all GNU C Library: X32 ABI 
+  Shared libraries for AMD64 (for cross-compiling)
+libcamd2/focal 1:5.7.1+dfsg-2 amd64 symmetric approximate minimum degree library for sparse matrices libcatalyst-model-dbic-schema-perl/focal,focal 0.65-2 all 
+  DBIx::Class::Schema-based database model for Catalyst
+libccolamd2/focal 1:5.7.1+dfsg-2 amd64 constrained column approximate library for sparse matrices libcharon-extra-plugins/focal 5.8.2-1ubuntu3 amd64 strongSwan 
+  charon library (extra plugins)
+libchemistry-openbabel-perl/focal 3.0.0+dfsg-3ubuntu3 amd64 Chemical toolbox library (perl bindings) libcib27/focal 2.0.3-3ubuntu3 amd64 cluster resource 
+  manager CIB library
+libclamav-client-perl/focal,focal 0.11-2 all Perl client for the ClamAV virus scanner daemon libclamunrar9/focal 0.101.2-1build1 amd64 anti-virus utility for 
+  Unix - unrar support
+libclblas-dev/focal 2.12-1ubuntu1 amd64 development files for clBLAS libclblas-doc/focal,focal 2.12-1ubuntu1 all documentation for clBLAS libclblas2/focal 
+2.12-1ubuntu1 amd64
+  OpenCL BLAS library libclc-amdgcn/focal,focal 0.2.0+git20190827-4 all OpenCL C language implementation - amdgcn support libclc-r600/focal,focal 
+0.2.0+git20190827-4 all
+  OpenCL C language implementation - r600 support libcmdliner-ocaml-dev/focal 1.0.4-2build1 amd64 declarative definition of command line interfaces 
+libcodenarc-groovy-java/focal,focal 0.23-5 all
+  Groovy library that provides static analysis features for Groovy code libcodenarc-groovy-java-doc/focal,focal 0.23-5 all Documentation for 
+  libcodenarc-groovy-java
+libcolamd2/focal,now 1:5.7.1+dfsg-2 amd64 [installed,automatic] column approximate minimum degree ordering library for sparse matrices 
+libcommons-exec-java/focal,focal 1.3-1 all
+  Java library to reliably execute external processes from within the JVM libcommons-net-java/focal,focal 3.6-1 all Apache Commons Net - Java client API for 
+  basic Internet protocols
+libconfig-model-systemd-perl/focal,focal 0.244.1-1 all editor and validator for systemd configuration files libcrcutil-dev/focal 1.0-5 amd64 library for cyclic 
+  redundancy check (CRC) computation - development files
+libcrcutil-doc/focal,focal 1.0-5 all library for cyclic redundancy check (CRC) computation - documentation libcrcutil0/focal 1.0-5 amd64 library for cyclic 
+  redundancy check (CRC) computation
+libcrmcluster29/focal 2.0.3-3ubuntu3 amd64 cluster resource manager cluster library libcrmcommon34/focal 2.0.3-3ubuntu3 amd64 cluster resource manager common 
+  library
+libcrmservice28/focal 2.0.3-3ubuntu3 amd64 cluster resource manager service library libcrypt-passwdmd5-perl/focal,focal 1.40-1 all interoperable MD5-based 
+  crypt() for Perl
+libcrypt1/focal,now 1:4.4.10-10ubuntu4 amd64 [installed,automatic] libcrypt shared library libcrypto++-dev/focal 5.6.4-9build1 amd64 General purpose 
+  cryptographic library - C++ development
+libcrypto++-doc/focal,focal 5.6.4-9build1 all General purpose cryptographic library - documentation libcrypto++-utils/focal 5.6.4-9build1 amd64 General purpose 
+  cryptographic library - utilities and data files
+libcryptokit-ocaml/focal 1.15-1build1 amd64 cryptographic algorithm library for OCaml - runtime libcryptokit-ocaml-dev/focal 1.15-1build1 amd64 cryptographic 
+  algorithm library for OCaml - development
+libcxxtools-dev/focal 2.2.1-3build1 amd64 library of unrelated but useful C++ classes libcxxtools9v5/focal 2.2.1-3build1 amd64 library of unrelated but useful 
+  C++ classes
+libdata-streamdeserializer-perl/focal 0.06-1.1build5 amd64 non-blocking deserializer libdcontainers0/focal 0.8.0~alpha.16-1build3 amd64 Containers backed by 
+  stdx.allocator
+libdevel-gdb-perl/focal,focal 2.02-4 all module to open and communicate with a gdb session libdevel-symdump-perl/focal,focal 2.18-3 all Perl module for 
+  inspecting perl's symbol table
+libdigest-bubblebabble-perl/focal,focal 0.02-2 all perl module to create bubble-babble fingerprints libdigest-hmac-perl/focal,focal 1.03+dfsg-2 all module for 
+  creating standard message integrity checks
+libdigest-md2-perl/focal 2.04+dfsg-1build2 amd64 MD2 Message Digest for Perl libdigest-md4-perl/focal 1.9+dfsg-2build2 amd64 MD4 Message Digest for Perl 
+libdigest-md5-file-perl/focal,focal 0.08-1 all
+  Perl extension for getting MD5 sums for files and urls libdigest-perl-md5-perl/focal,focal 1.9-1 all Perl Implementation of Rivest's MD5 algorithm 
+libdistorm3-3/focal 3.4.1-4 amd64
+  powerful disassembler library for x86/AMD64 binary streams libdistorm3-dev/focal 3.4.1-4 amd64 powerful disassembler library for x86/AMD64 binary streams 
+  (development files)
+libdrm-amdgpu1/focal,now 2.4.101-2 amd64 [installed,automatic] Userspace interface to amdgpu-specific kernel DRM services -- runtime libdsfmt-11213-1/focal 
+2.2.3+dfsg-4 amd64
+  dSFMT-11213 pseudorandom number generator (shared library) libdsfmt-1279-1/focal 2.2.3+dfsg-4 amd64 dSFMT-1279 pseudorandom number generator (shared library) 
+libdsfmt-132049-1/focal 2.2.3+dfsg-4 amd64
+  dSFMT-132049 pseudorandom number generator (shared library) libdsfmt-19937-1/focal 2.2.3+dfsg-4 amd64 dSFMT-19937 pseudorandom number generator (shared 
+  library)
+libdsfmt-216091-1/focal 2.2.3+dfsg-4 amd64 dSFMT-216091 pseudorandom number generator (shared library) libdsfmt-2203-1/focal 2.2.3+dfsg-4 amd64 dSFMT-2203 
+  pseudorandom number generator (shared library)
+libdsfmt-4253-1/focal 2.2.3+dfsg-4 amd64 dSFMT-4253 pseudorandom number generator (shared library) libdsfmt-44497-1/focal 2.2.3+dfsg-4 amd64 dSFMT-44497 
+  pseudorandom number generator (shared library)
+libdsfmt-521-1/focal 2.2.3+dfsg-4 amd64 dSFMT-521 pseudorandom number generator (shared library) libdsfmt-86243-1/focal 2.2.3+dfsg-4 amd64 dSFMT-86243 
+  pseudorandom number generator (shared library)
+libdsfmt-dev/focal 2.2.3+dfsg-4 amd64 dSFMT pseudorandom number generator (development files) libe-book-0.1-1/focal,now 0.1.3-1build3 amd64 
+[installed,automatic]
+  library for reading and converting various e-book formats libe-book-dev/focal 0.1.3-1build3 amd64 library for reading and converting various e-book formats 
+libeasybind-java/focal,focal 1.0.3-2 all
+  helper library for custom JavaFX bindings using lamdas libebook-tools-perl/focal 0.5.4-1.3 amd64 E-Book manipulation tool and Perl libraries 
+libecore-avahi1/focal 1.23.3-8 amd64
+  Ecore functions for Avahi mDNS/DNS-SD libextractor3/focal 1:1.9-3 amd64 extracts meta-data from files of arbitrary type (library) libfcml-dev/focal 1.2.0-2 
+amd64
+  machine code manipulation library - development files libfcml-doc/focal,focal 1.2.0-2 all machine code manipulation library - documentation libfcml0/focal 
+1.2.0-2 amd64
+  machine code manipulation library libfec-dev/focal 1.0+20161003-4 amd64 forward error correction (FEC) algorithms - header files libfec0/focal 1.0+20161003-4 
+amd64
+  forward error correction (FEC) algorithms libfile-modified-perl/focal,focal 0.10-1 all module to check if files have changed 
+libfile-path-tiny-perl/focal,focal 0.9-1 all
+  recursive version of mkdir() and rmdir() libfuzzy-dev/focal 2.14.1+git20180629.57fcfff-1build1 amd64 recursive piecewise hashing tool (development headers) 
+libfuzzy2/focal 2.14.1+git20180629.57fcfff-1build1 amd64
+  recursive piecewise hashing tool (library) libfuzzylite-dev/focal 6.0+dfsg-2build1 amd64 fuzzy logic control development headers libfuzzylite6.0/focal 
+6.0+dfsg-2build1 amd64
+  fuzzy logic control shared library libg3d-plugins/focal 0.0.8-31 amd64 plugins for the LibG3D library libgamemode-dev/focal 1.5.1-0ubuntu3 amd64 Optimise 
+  Linux system performance on demand (dev files)
+libgamemode0/focal,now 1.5.1-0ubuntu3 amd64 [installed,automatic] Optimise Linux system performance on demand (libraries) libgamemodeauto-dev/focal 
+1.5.1-0ubuntu3 amd64
+  Automatically optimise system performance on demand (dev files) libgamemodeauto0/focal,now 1.5.1-0ubuntu3 amd64 [installed,automatic] Automatically optimise 
+  Linux system performance on demand
+libgcc-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC support library (development files) libgcc-8-dev-amd64-cross/focal,focal 
+8.4.0-3ubuntu1cross1 all
+  GCC support library (development files) libgcc-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all GCC support library (development files) 
+libgcc-s1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  GCC support library (amd64) libgcrypt-mingw-w64-dev/focal,focal 1.8.5-5ubuntu1 all LGPL Crypto library - Windows development libgcrypt20/focal,now 
+1.8.5-5ubuntu1 amd64 [installed,automatic]
+  LGPL Crypto library - runtime library libgcrypt20-dev/focal 1.8.5-5ubuntu1 amd64 LGPL Crypto library - development files libgcrypt20-doc/focal,focal 
+1.8.5-5ubuntu1 all
+  LGPL Crypto library - documentation libgdcm-tools/focal 3.0.5-1.1ubuntu2 amd64 Grassroots DICOM tools and utilities 
+libgfortran-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Fortran applications (development files) libgfortran-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library for GNU 
+  Fortran applications (development files)
+libgfortran-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Fortran applications (development files) 
+libgfortran5-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Fortran applications libghc-clientsession-dev/focal 0.9.1.2-5build1 amd64 library for web session data in cookies 
+libghc-clientsession-doc/focal,focal 0.9.1.2-5build1 all
+  library for web session data in cookies; documentation libghc-clientsession-prof/focal 0.9.1.2-5build1 amd64 library for web session data in cookies; 
+  profiling libraries
+libghc-cmdargs-dev/focal 0.10.20-2build1 amd64 command-line argument processing libghc-cmdargs-doc/focal,focal 0.10.20-2build1 all command-line argument 
+  processing; documentation
+libghc-cmdargs-prof/focal 0.10.20-2build1 amd64 command-line argument processing; profiling libraries libghc-cryptohash-md5-dev/focal 0.11.100.1-5build1 amd64 
+  fast, pure and practical MD5 implementation
+libghc-cryptohash-md5-doc/focal,focal 0.11.100.1-5build1 all fast, pure and practical MD5 implementation; documentation libghc-cryptohash-md5-prof/focal 
+0.11.100.1-5build1 amd64
+  fast, pure and practical MD5 implementation; profiling libraries libghc-cryptonite-dev/focal 0.25-5build1 amd64 cryptographic primitives 
+libghc-cryptonite-doc/focal,focal 0.25-5build1 all
+  cryptographic primitives; documentation libghc-cryptonite-prof/focal 0.25-5build1 amd64 cryptographic primitives; profiling libraries 
+libghc-descriptive-dev/focal 0.9.5-2build3 amd64
+  Self-describing consumers/parsers; forms, cmd-line args, JSON, etc. libghc-descriptive-doc/focal,focal 0.9.5-2build3 all Self-describing consumers/parsers; 
+  forms, cmd-line args, JSON, etc.; documentation
+libghc-descriptive-prof/focal 0.9.5-2build3 amd64 Self-describing consumers/parsers; forms, cmd-line args, JSON, etc.; profiling libraries 
+libghc-diagrams-cairo-dev/focal 1.4.1-4build1 amd64
+  Cairo backend for the diagrams drawing EDSL libghc-diagrams-cairo-doc/focal,focal 1.4.1-4build1 all Cairo backend for the diagrams drawing EDSL; 
+  documentation
+libghc-diagrams-cairo-prof/focal 1.4.1-4build1 amd64 Cairo backend for the diagrams drawing EDSL; profiling libraries libghc-irc-core-dev/focal 2.7.1-1build1 
+amd64
+  IRC connection library libghc-irc-core-doc/focal,focal 2.7.1-1build1 all IRC connection library; documentation libghc-irc-core-prof/focal 2.7.1-1build1 amd64 
+  IRC connection library; profiling libraries
+libghc-mersenne-random-pure64-dev/focal 0.2.2.0-3build1 amd64 Fast pure pseudorandom number generator libghc-mersenne-random-pure64-doc/focal,focal 
+0.2.2.0-3build1 all
+  Fast pure pseudorandom number generator; documentation libghc-mersenne-random-pure64-prof/focal 0.2.2.0-3build1 amd64 Fast pure pseudorandom number 
+  generator; profiling libraries
+libghc-puremd5-dev/focal 2.1.3-5build1 amd64 implementation of the MD5 digest (hash) algorithm libghc-puremd5-doc/focal,focal 2.1.3-5build1 all implementation 
+  of the MD5 digest (hash) algorithm; documentation
+libghc-puremd5-prof/focal 2.1.3-5build1 amd64 implementation of the MD5 digest (hash) algorithm; profiling libraries libgm2-0-amd64-cross/focal,focal 
+9.3.0-10ubuntu1cross2 all
+  GNU Modula-2 standard library (runtime library) libgm2-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Modula-2 standard library 
+libgm2-15-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  GNU Modula-2 standard library (runtime library) libgm2-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all GNU Modula-2 standard library 
+libgnat-10-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  runtime for applications compiled with GNAT (shared library) libgnat-8-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all runtime for applications compiled 
+  with GNAT (shared library)
+libgnat-9-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all runtime for applications compiled with GNAT (shared library) libgo-10-dev-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Go applications (development files) libgo-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Go 
+  applications (development files)
+libgo13-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library for GNU Go applications libgo14-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all 
+  Runtime library for GNU Go applications
+libgo16-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library for GNU Go applications libgomp-plugin-amdgcn1/focal 10-20200411-0ubuntu1 amd64 
+  GCC OpenMP v4.5 plugin for offloading to GCN
+libgomp1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC OpenMP (GOMP) support library libgphobos-10-dev-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  Phobos D standard library libgphobos-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Phobos D standard library 
+libgphobos-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all
+  Phobos D standard library libgphobos1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Phobos D standard library (runtime library) 
+libgphobos76-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all
+  Phobos D standard library (runtime library) libgsasl7/focal 1.8.1-1 amd64 GNU SASL library libgssapi3-heimdal/focal,now 7.7.0+dfsg-1ubuntu1 amd64 
+[installed,automatic]
+  Heimdal Kerberos - GSSAPI support library libguestfs0/focal 1:1.40.2-7ubuntu5 amd64 guest disk image management system - shared library libgusb-dev/focal 
+0.3.4-0.1 amd64
+  GLib wrapper around libusb1 - development files libhcrypto4-heimdal/focal,now 7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic] Heimdal Kerberos - crypto 
+  library
+libhdb9-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - kadmin server library libheimbase1-heimdal/focal,now 7.7.0+dfsg-1ubuntu1 amd64 
+[installed,automatic]
+  Heimdal Kerberos - Base library libheimdal-kadm5-perl/focal 0.08-5build2 amd64 Perl module to administer a Heimdal Kerberos KDC 
+libheimntlm0-heimdal/focal,now 7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic]
+  Heimdal Kerberos - NTLM support library libhsail-rt-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all HSAIL runtime library (development files) 
+libhsail-rt-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  HSAIL runtime library (development files) libhsail-rt-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all HSAIL runtime library (development files) 
+libhsail-rt0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  HSAIL runtime library libhttp-cache-transparent-perl/focal,focal 1.4-1 all Perl module used to transparently cache HTTP requests libhx509-5-heimdal/focal,now 
+7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic]
+  Heimdal Kerberos - X509 support library libiec61883-0/focal,now 1.2.0-3 amd64 [installed,automatic] partial implementation of IEC 61883 (shared lib) 
+libiec61883-dev/focal 1.2.0-3 amd64
+  partial implementation of IEC 61883 (devel) libimdb-film-perl/focal,focal 0.53-1 all Perl extension for retrieving movie info from IMDB.com 
+libindigo-dev/focal 1.2.3-3build1 amd64
+  Organic Chemistry Toolkit (development files) libindigo-java/focal,focal 1.2.3-3build1 all Organic Chemistry Toolkit (Java package) libindigo0d/focal 
+1.2.3-3build1 amd64
+  Organic Chemistry Toolkit libisofs-doc/focal,focal 1.5.2-1 all background documentation for libisofs library libitm1-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  GNU Transactional Memory Library libjdns-dev/focal 2.0.3-1.1build1 amd64 Simple DNS queries library - development files libjdns2/focal 2.0.3-1.1build1 amd64 
+  Simple DNS queries library
+libjgromacs-java/focal,focal 1.0-1 all library for molecular dynamics trajectory analysis libjgromacs-java-doc/focal,focal 1.0-1 all library for molecular 
+  dynamics trajectory analysis (documentation)
+libjmdns-java/focal,focal 3.5.5-1 all Java implementation of multi-cast DNS (Apple Rendezvous) libjmdns-java-doc/focal,focal 3.5.5-1 all Documentation for Java 
+  implementation of multi-cast DNS
+libjpeg-turbo8/focal,now 2.0.3-0ubuntu1 amd64 [installed,automatic] IJG JPEG compliant runtime library. libjs-browser-request/focal,focal 0.3.3-2 all browser 
+  library compatible with the node-request package
+libjs-jshash/focal,focal 2.2-4 all calculate secure hash algorithms in JavaScript libjs-microplugin.js/focal,focal 0.0.3+dfsg-1 all Lightweight plugin / 
+  dependency system for libraries
+libjs-requirejs/focal,focal 2.3.6-1 all JavaScript file and module loader libjs-requirejs-text/focal,focal 2.0.12-1 all loader plugin for loading text 
+  resources
+libjs-sifter.js/focal,focal 0.6.0+dfsg-1 all Library for textually searching arrays and hashes of objects libjs-simplemde/focal,focal 1.11.2+dfsg2-2 all 
+  JavaScript library providing a simple Markdown editor
+libjs-strophe/focal,focal 1.2.14+dfsg-5 all Library for writing XMPP clients libjs-vue/focal,focal 2.5.17+dfsg-4 all Core library of the Vue JavaScript 
+  framework, browser build
+libkadm5clnt7-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - kadmin client library libkadm5srv8-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 Libraries 
+  for Heimdal Kerberos
+libkafs0-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - KAFS support library libkdc2-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - KDC 
+  support library
+libkf5kdepimdbusinterfaces-dev/focal 4:19.12.3-0ubuntu1 amd64 KDE PIM D-Bus interfaces library, devel files libkf5kdepimdbusinterfaces5/focal 
+4:19.12.3-0ubuntu1 amd64
+  KDE PIM D-Bus interfaces library libkopenafs2/focal 1.8.4~pre1-1ubuntu2 amd64 AFS distributed file system runtime library (PAGs) libkrb5-26-heimdal/focal,now 
+7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic]
+  Heimdal Kerberos - libraries libkvilib5/focal 4:5.0.0+dfsg-2build2 amd64 KVIrc (IRC client) base library liblmdb++-dev/focal 0.9.14.1+git20160228.0b43ca8-1 
+amd64
+  C++ wrapper for LMDB liblmdb-dev/focal 0.9.24-1 amd64 Lightning Memory-Mapped Database development files liblmdb0/focal,now 0.9.24-1 amd64 
+[installed,automatic]
+  Lightning Memory-Mapped Database shared library liblrmd-dev/focal,focal 2.0.3-3ubuntu3 all transitional package liblrmd28/focal 2.0.3-3ubuntu3 amd64 cluster 
+  resource manager LRMD library
+liblsan0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all LeakSanitizer -- a memory leak detector (runtime) liblvm2cmd2.03/focal 2.03.07-1ubuntu1 amd64 
+  LVM2 command library
+liblwp-authen-negotiate-perl/focal,focal 0.08-2.1 all Perl module for GSSAPI based Authentication Plugin for LWP libmamda-book-java/focal 2.2.2.1-12build1 
+amd64
+  message oriented middleware - Java libraries (MAMDA order book) libmamda-dev/focal 2.2.2.1-12build1 amd64 message oriented middleware - development files 
+libmamda-doc/focal,focal 2.2.2.1-12build1 all
+  message oriented middleware - API documentation (MAMA) libmamda-java/focal 2.2.2.1-12build1 amd64 message oriented middleware - Java libraries (MAMDA) 
+libmamda-options-java/focal 2.2.2.1-12build1 amd64
+  message oriented middleware - Java libraries (MAMDA options) libmamda0/focal 2.2.2.1-12build1 amd64 message oriented middleware - shared libraries 
+libmamdabook0/focal 2.2.2.1-12build1 amd64
+  message oriented middleware - shared libraries libmamdanews0/focal 2.2.2.1-12build1 amd64 message oriented middleware - shared libraries 
+libmamdaoptions0/focal 2.2.2.1-12build1 amd64
+  message oriented middleware - shared libraries libmbedcrypto3/focal,now 2.16.4-1ubuntu2 amd64 [installed,automatic] lightweight crypto and SSL/TLS library - 
+  crypto library
+libmbedtls-dev/focal 2.16.4-1ubuntu2 amd64 lightweight crypto and SSL/TLS library - development files libmbedtls-doc/focal,focal 2.16.4-1ubuntu2 all 
+  lightweight crypto and SSL/TLS library - documentation
+libmbedtls12/focal,now 2.16.4-1ubuntu2 amd64 [installed,automatic] lightweight crypto and SSL/TLS library - tls library libmbedx509-0/focal,now 2.16.4-1ubuntu2 
+amd64 [installed,automatic]
+  lightweight crypto and SSL/TLS library - x509 certificate library libmd-dev/focal 1.0.1-3 amd64 message digest functions from BSD systems - development files 
+libmd0/focal 1.0.1-3 amd64
+  message digest functions from BSD systems - shared library libmd4c-dev/focal 0.4.3-1 amd64 Markdown for C - development files libmd4c0/focal 0.4.3-1 amd64 
+  Markdown for C
+libmdb2/focal 0.7.1-6build1 amd64 Core library for accessing JET / MS Access (MDB) files libmdbsql2/focal 0.7.1-6build1 amd64 mdbtools SQL library 
+libmdc-dev/focal 0.16.1+dfsg-1 amd64
+  Medical Image (DICOM, ECAT, ...) conversion tool (development) libmdc3/focal 0.16.1+dfsg-1 amd64 Medical Image (DICOM, ECAT, ...) conversion tool (library) 
+libmdds-dev/focal,focal 1.5.0-3 all
+  Multi Dimension Data structure library -- headers libmdds-doc/focal,focal 1.5.0-3 all Multi Dimension Data structure library -- documentation 
+libmdsp-dev/focal 0.11-10 amd64
+  METAR Decoder Software Package Library development files libmed-tools/focal 4.0.0+repack-9build1 amd64 Runtime tools to handle MED files libmkl-mc/focal 
+2020.0.166-1 amd64
+  Intel® MKL: Kernel library for Intel® SSSE3 enabled processors libmkl-mc3/focal 2020.0.166-1 amd64 Intel® MKL: Kernel library for Intel® SSE4.2 enabled 
+  processors
+libmmdb2-0/focal 2.0.5-1build1 amd64 macromolecular coordinate library - runtime libmmdb2-dev/focal 2.0.5-1build1 amd64 macromolecular coordinate library - 
+  development files
+libmondrian-java/focal,focal 1:3.11.0.1-4 all OLAP server written in Java libmondrian-java-doc/focal,focal 1:3.11.0.1-4 all OLAP server written in Java - 
+  documentation
+libmono-simd4.0-cil/focal,focal,now 6.8.0.105+dfsg-2 all [installed,automatic] Mono SIMD (for CLI 4.0) libmono-smdiagnostics0.0-cil/focal,focal,now 
+6.8.0.105+dfsg-2 all [installed,automatic]
+  Mono SMDiagnostics Library (for CLI 4.0) libmono-zeroconf-cil-dev/focal,focal 0.9.0-6 all CLI library for multicast DNS service discovery 
+libmono-zeroconf1.0-cil/focal,focal 0.9.0-6 all
+  CLI library for multicast DNS service discovery libmoosex-app-cmd-perl/focal,focal 0.32-2 all Perl module combining App::Cmd and MooseX::Getopt 
+libmoox-cmd-perl/focal,focal 0.017-1 all
+  easy Moo style way to make command organized CLI apps libmpx2-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Intel memory protection extensions (runtime) 
+libneon27/focal 0.30.2-4 amd64
+  HTTP and WebDAV client library libneon27-gnutls/focal,now 0.30.2-4 amd64 [installed,automatic] HTTP and WebDAV client library (GnuTLS enabled) 
+libnet-bonjour-perl/focal,focal 0.96-2 all
+  Perl module for DNS service discovery libnet-dns-fingerprint-perl/focal,focal 20190131-1 all library to determine DNS server vendor, product and version 
+libnss-mdns/focal,now 0.14.1-1ubuntu1 amd64 [installed,automatic]
+  NSS module for Multicast DNS name resolution libnss-mymachines/focal-updates 245.4-4ubuntu3.1 amd64 nss module to resolve hostnames for local container 
+  instances
+libnss-resolve/focal-updates 245.4-4ubuntu3.1 amd64 nss module to resolve names via systemd-resolved libnss-systemd/focal-updates,now 245.4-4ubuntu3.1 amd64 
+[installed,automatic]
+  nss module providing dynamic user and group name resolution libobjc-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library for GNU 
+  Objective-C applications (development files)
+libobjc-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library for GNU Objective-C applications (development files) 
+libobjc-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all
+  Runtime library for GNU Objective-C applications (development files) libobjc4-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library for GNU 
+  Objective-C applications
+libobject-signature-perl/focal,focal 1.08-1 all module perl for generate cryptographic signatures for objects libopenbabel-dev/focal 3.0.0+dfsg-3ubuntu3 amd64 
+  Chemical toolbox library (development files)
+libopenbabel-doc/focal,focal 3.0.0+dfsg-3ubuntu3 all Chemical toolbox library (documentation) libopenbabel6/focal 3.0.0+dfsg-3ubuntu3 amd64 Chemical toolbox 
+  library
+libopenblas-base/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (transitional) libopenblas-dev/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear 
+  algebra) library (dev, meta)
+libopenblas-openmp-dev/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (dev, openmp) libopenblas-pthread-dev/focal 0.3.8+ds-1 amd64 Optimized 
+  BLAS (linear algebra) library (dev, pthread)
+libopenblas-serial-dev/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (dev, serial) libopenblas0/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear 
+  algebra) library (meta)
+libopenblas0-openmp/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (shared lib, openmp) libopenblas0-pthread/focal 0.3.8+ds-1 amd64 Optimized 
+  BLAS (linear algebra) library (shared lib, pthread)
+libopenblas0-serial/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (shared lib, serial) libopenblas64-0/focal 0.3.8+ds-1 amd64 Optimized BLAS 
+  (linear algebra) library (shared lib, 64bit, meta)
+libopenblas64-0-openmp/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (shared lib, 64bit, openmp) libopenblas64-0-pthread/focal 0.3.8+ds-1 
+amd64
+  Optimized BLAS (linear algebra) library (shared lib, 64bit, pthread) libopenblas64-0-serial/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library 
+  (shared lib, 64bit, serial)
+libopenblas64-dev/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (dev, 64bit, meta) libopenblas64-openmp-dev/focal 0.3.8+ds-1 amd64 Optimized 
+  BLAS (linear algebra) library (dev, 64bit, openmp)
+libopenblas64-pthread-dev/focal 0.3.8+ds-1 amd64 Optimized BLAS (linear algebra) library (dev, 64bit, pthread) libopenblas64-serial-dev/focal 0.3.8+ds-1 amd64 
+  Optimized BLAS (linear algebra) library (dev, 64bit, serial)
+libopenhmd-dev/focal 0.3.0-1 amd64 API and drivers for immersive technology (development files) libopenhmd0/focal 0.3.0-1 amd64 API and drivers for immersive 
+  technology (shared library)
+liborc-0.4-0/focal,now 1:0.4.31-1 amd64 [installed,automatic] Library of Optimized Inner Loops Runtime Compiler liborc-0.4-0-dbg/focal 1:0.4.31-1 amd64 Library 
+  of Optimized Inner Loops Runtime Compiler (debug package)
+liborc-0.4-dev/focal 1:0.4.31-1 amd64 Library of Optimized Inner Loops Runtime Compiler (development headers) liborc-0.4-dev-bin/focal 1:0.4.31-1 amd64 Library 
+  of Optimized Inner Loops Runtime Compiler (development tools)
+liborc-0.4-doc/focal,focal 1:0.4.31-1 all Library of Optimized Inner Loops Runtime Compiler (documentation) libotp0-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 
+  Heimdal Kerberos - OTP support library
+libpacemaker1/focal 2.0.3-3ubuntu3 amd64 cluster resource manager utility library libpam-heimdal/focal 4.8-2ubuntu1 amd64 PAM module for Heimdal Kerberos 
+libpam-krb5-migrate-heimdal/focal 0.0.11-5 amd64
+  PAM module for migrating to Heimdal Kerberos libpam-mysql/focal 0.8.1-1ubuntu1 amd64 PAM module interfacing with MySQL databases libpam-pwdfile/focal 
+1.0-1build1 amd64
+  PAM module allowing authentication via an /etc/passwd-like file libpam-systemd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed,automatic] system and 
+  service manager - PAM module
+libpam-ufpidentity/focal 1.0-1 amd64 PAM library for UFP identity libpcp-pmda-perl/focal 5.0.3-1 amd64 Performance Co-Pilot Domain Agent Perl module 
+libpcp-pmda3/focal 5.0.3-1 amd64
+  Performance Co-Pilot Domain Agent library libpcp-pmda3-dev/focal 5.0.3-1 amd64 Performance Co-Pilot Domain Agent library and headers libpcp-trace2/focal 
+5.0.3-1 amd64
+  Performance Co-Pilot application tracing library libpcp-trace2-dev/focal 5.0.3-1 amd64 Performance Co-Pilot application tracing library and headers 
+libpcp-web1/focal 5.0.3-1 amd64
+  Performance Co-Pilot data import library libpcp-web1-dev/focal 5.0.3-1 amd64 Performance Co-Pilot web tooling libpe-rules26/focal 2.0.3-3ubuntu3 amd64 
+  cluster resource manager Policy Engine rules library
+libpe-status28/focal 2.0.3-3ubuntu3 amd64 cluster resource manager Policy Engine status library libperinci-cmdline-perl/focal,focal 1.811.0-1 all 
+  Rinci/Riap-based command-line application framework
+libpgobject-type-datetime-perl/focal,focal 2.000002-1 all DateTime Wrappers for PGObject libphobos2-ldc-shared-dev/focal 1:1.20.1-1 amd64 LLVM D Compiler - 
+  Standard and runtime libraries, imports
+libphobos2-ldc-shared90/focal,now 1:1.20.1-1 amd64 [installed,automatic] LLVM D Compiler - Standard and runtime libraries libphp-phpmailer/focal,focal 
+6.0.6-0.1 all
+  full featured email transfer class for PHP libphp-predis/focal 0.8.3-1ubuntu1 amd64 Flexible and feature-complete PHP client library for the Redis key-value 
+  store
+libpopt-dev/focal 1.16-14 amd64 lib for parsing cmdline parameters - development files libpopt0/focal,now 1.16-14 amd64 [installed,automatic] lib for parsing 
+  cmdline parameters
+libquadmath0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC Quad-Precision Math Library librdkit-dev/focal 201909.1-2ubuntu5 amd64 Collection of 
+  cheminformatics and machine-learning software (development files)
+librdkit1/focal 201909.1-2ubuntu5 amd64 Collection of cheminformatics and machine-learning software (shared libraries) 
+libreoffice-base-drivers/focal-updates,now 1:6.4.3-0ubuntu0.20.04.1 amd64 [installed,automatic]
+  Database connectivity drivers for LibreOffice libretro-mupen64plus/focal 2.0+git20160207+dfsg2-1 amd64 Libretro wrapper for Mupen64Plus librhash-dev/focal 
+1.3.9-1 amd64
+  header files and a static library for librhash librhash0/focal,now 1.3.9-1 amd64 [installed,automatic] shared library for hash functions computing 
+libroken18-heimdal/focal,now 7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic]
+  Heimdal Kerberos - roken support library librte-cmdline20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-cmdline 
+  runtime library)
+librte-pmd-aesni-gcm20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_aesni_gcm runtime library) 
+librte-pmd-aesni-mb20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte_pmd_aesni_mb runtime library) librte-pmd-af-packet20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-af-packet runtime library)
+librte-pmd-ark20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_ark runtime library) 
+librte-pmd-atlantic20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-atlantic runtime library) librte-pmd-avp20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte_pmd_avp runtime library)
+librte-pmd-axgbe20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-axgbe runtime library) 
+librte-pmd-bbdev-fpga-lte-fec20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-bbdev-fpga-lte-fec runtime library) librte-pmd-bbdev-null20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 
+  Data Plane Development Kit (librte-pmd-bbdev-null runtime library)
+librte-pmd-bbdev-turbo-sw20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-bbdev-turbo-sw runtime library) 
+librte-pmd-bnx2x20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-bnx2x runtime library) librte-pmd-bnxt20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-bnxt runtime library)
+librte-pmd-bond20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-bond runtime library) 
+librte-pmd-caam-jr20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-caam-jr runtime library) librte-pmd-ccp20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-ccp runtime library)
+librte-pmd-crypto-scheduler20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_crypto_scheduler runtime library) 
+librte-pmd-cxgbe20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-cxgbe runtime library) librte-pmd-dpaa-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-dpaa-event runtime library)
+librte-pmd-dpaa-sec20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-dpaa-sec runtime library) 
+librte-pmd-dpaa2-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-dpaa2 runtime library) librte-pmd-dpaa2-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-dpaa2-event runtime library)
+librte-pmd-dpaa2-sec20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-dpaa2-sec runtime library) 
+librte-pmd-dpaa20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-dpaa runtime library) librte-pmd-dsw-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-dsw-event runtime library)
+librte-pmd-e1000-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-e1000 runtime library) 
+librte-pmd-ena20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-ena runtime library) librte-pmd-enetc20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development 
+  Kit (librte-pmd-enetc runtime library)
+librte-pmd-enic20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-enic runtime library) 
+librte-pmd-failsafe20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-failsafe runtime library) librte-pmd-fm10k20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-fm10k runtime library)
+librte-pmd-hinic20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-hinic runtime library) 
+librte-pmd-hns3-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-hns3 runtime library) librte-pmd-i40e20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development 
+  Kit (librte-pmd-i40e runtime library)
+librte-pmd-iavf20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_iavf runtime library) 
+librte-pmd-ice20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-ice runtime library) librte-pmd-ifc20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development 
+  Kit (librte_pmd_ifc runtime library)
+librte-pmd-isal20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-isal runtime library) 
+librte-pmd-ixgbe20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-ixgbe runtime library) librte-pmd-kni20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development 
+  Kit (librte_pmd_kni runtime library)
+librte-pmd-liquidio20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_liquidio runtime library) 
+librte-pmd-memif20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-memif runtime library) librte-pmd-mlx4-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-mlx4 runtime library)
+librte-pmd-mlx5-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-mlx5 runtime library) 
+librte-pmd-netvsc20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-netvsc runtime library) librte-pmd-nfp20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte_pmd_nfp runtime library)
+librte-pmd-nitrox20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-nitrox runtime library) 
+librte-pmd-null-crypto20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-null-crypto runtime library) librte-pmd-null20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-null runtime library)
+librte-pmd-octeontx-compress20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_octeontx_compress runtime 
+  library)
+librte-pmd-octeontx-crypto20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_octeontx_crypto runtime library) 
+librte-pmd-octeontx-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte_pmd_octeontx_event runtime library) librte-pmd-octeontx2-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data 
+  Plane Development Kit (librte-pmd-octeontx2 runtime library)
+librte-pmd-octeontx2-crypto20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (crypto for octeontx2 pmd) 
+librte-pmd-octeontx2-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (events for octeontx2 pmd) librte-pmd-octeontx20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development 
+  Kit (librte_pmd_octeontx runtime library)
+librte-pmd-opdl-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_opdl_event runtime library) 
+librte-pmd-openssl20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-openssl runtime library) librte-pmd-pcap20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-pcap runtime library)
+librte-pmd-pfe20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-pfe runtime library) 
+librte-pmd-qat20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-qat runtime library) librte-pmd-qede20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development 
+  Kit (librte-pmd-qede runtime library)
+librte-pmd-ring20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-ring runtime library) 
+librte-pmd-sfc20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte_pmd_sfc runtime library) librte-pmd-skeleton-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte_pmd_skeleton_event runtime library)
+librte-pmd-softnic20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-softnic runtime library) 
+librte-pmd-sw-event20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte_pmd_sw_event runtime library) librte-pmd-tap20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte_pmd_tap runtime library)
+librte-pmd-thunderx20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte_pmd_thunderx runtime library) 
+librte-pmd-vdev-netvsc20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-vdev-netvsc runtime library) librte-pmd-vhost20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-vhost runtime library)
+librte-pmd-virtio-crypto20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-virtio-crypto runtime library) 
+librte-pmd-virtio20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-pmd-virtio runtime library) librte-pmd-vmxnet3-20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane 
+  Development Kit (librte-pmd-vmxnet3 runtime library)
+librte-pmd-zlib20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64 Data Plane Development Kit (librte-pmd-zlib runtime library) 
+librte-rawdev-dpaa2-cmdif20.0/focal-updates,focal-security 19.11.1-0ubuntu1.1 amd64
+  Data Plane Development Kit (librte-rawdev-dpaa2-cmdif runtime library) librudecgi-dev/focal 5.0.0-1.1ubuntu2 amd64 C++ parser library for CGI applications - 
+  development libraries
+librudecgi5v5/focal 5.0.0-1.1ubuntu2 amd64 C++ parser library for CGI applications - runtime librust-bytecount+generic-simd-dev/focal 0.5.1-1build1 amd64 Count 
+  bytes or UTF-8 codepoints in a byte slice - feature "generic-simd"
+librust-bytecount+packed-simd-dev/focal 0.5.1-1build1 amd64 Count bytes or UTF-8 codepoints in a byte slice - feature "packed_simd" 
+librust-c2-chacha+simd-dev/focal 0.2.2-1 amd64
+  ChaCha family of stream ciphers - feature "simd" librust-crc32fast-dev/focal 1.2.0-1 amd64 Fast, SIMD-accelerated CRC32 (IEEE) checksum computation - Rust 
+  source code
+librust-encoding-rs+packed-simd-dev/focal 0.8.17-1build1 amd64 Gecko-oriented Encoding Standard implementation - feature "packed_simd" 
+librust-encoding-rs+simd-accel-dev/focal 0.8.17-1build1 amd64
+  Gecko-oriented Encoding Standard implementation - feature "simd-accel" librust-fake-simd-dev/focal 0.1.2-1 amd64 Mimicking simd crate on stable Rust - Rust 
+  source code
+librust-grep+simd-accel-dev/focal 0.2.4-1build1 amd64 Fast line oriented regex searching as a library - feature "simd-accel" 
+librust-grep-searcher+simd-accel-dev/focal 0.1.6-1build1 amd64
+  Fast line oriented regex searching as a library - feature "simd-accel" librust-gumdrop+default-expr-dev/focal 0.7.0-1 amd64 Option parser with custom derive 
+  support - feature "default_expr"
+librust-gumdrop-derive+default-expr-dev/focal 0.7.0-2 amd64 Custom derive support for gumdrop - feature "default_expr" librust-gumdrop-derive-dev/focal 0.7.0-2 
+amd64
+  Custom derive support for gumdrop - Rust source code librust-gumdrop-dev/focal 0.7.0-1 amd64 Option parser with custom derive support - Rust source code 
+librust-hash-dev/focal 0.3.0-2 amd64
+  Use the md5 package instead - Rust source code librust-ignore+simd-accel-dev/focal 0.4.10-1 amd64 Fast library for matching ignore files like .gitignore 
+  against file paths - feature "simd-accel"
+librust-listenfd-dev/focal 0.3.3-1 amd64 Simple library to work with listenfds passed from the outside (systemd/catflap socket activation) - Rust source code 
+librust-md-5+asm-dev/focal 0.8.0-2 amd64
+  MD5 hash function - feature "asm" librust-md-5+md5-asm-dev/focal 0.8.0-2 amd64 MD5 hash function - feature "md5-asm" librust-md-5+std-dev/focal 0.8.0-2 amd64 
+  MD5 hash function - feature "std"
+librust-md-5-dev/focal 0.8.0-2 amd64 MD5 hash function - Rust source code librust-md5-asm-dev/focal 0.4.3-2 amd64 Assembly implementation of MD5 compression 
+  function - Rust source code
+librust-md5-dev/focal 0.7.0-1 amd64 Package provides the MD5 hash function - Rust source code librust-output-vt100-dev/focal 0.1.2-2 amd64 activate escape 
+  codes in Windows' CMD and PowerShell - Rust source code
+librust-packed-simd+core-arch-dev/focal 0.3.3-4build1 amd64 Portable Packed SIMD vectors - feature "core_arch" librust-packed-simd+sleef-sys-dev/focal 
+0.3.3-4build1 amd64
+  Portable Packed SIMD vectors - feature "sleef-sys" librust-packed-simd-dev/focal 0.3.3-4build1 amd64 Portable Packed SIMD vectors - Rust source code 
+librust-ppv-lite86+default-dev/focal 0.2.5-2 amd64
+  crypto-simd API for x86 - feature "default" librust-ppv-lite86-dev/focal 0.2.5-2 amd64 crypto-simd API for x86 - Rust source code 
+librust-rand+packed-simd-dev/focal 0.7.2-1 amd64
+  Randomness functionality, number generators - feature "packed_simd" and 2 more librust-uuid+md5-dev/focal 0.8.1-2ubuntu1 amd64 Generate and parse UUIDs - 
+  feature "md5" and 1 more
+libsasl2-2/focal,now 2.1.27+dfsg-2 amd64 [installed,automatic] Cyrus SASL - authentication abstraction library libsasl2-modules/focal,now 2.1.27+dfsg-2 amd64 
+[installed,automatic]
+  Cyrus SASL - pluggable authentication modules libsasl2-modules-gssapi-heimdal/focal 2.1.27+dfsg-2 amd64 Pluggable Authentication Modules for SASL (GSSAPI) 
+libscamperfile0/focal 20191102-1 amd64
+  file access library for scamper's binary dump format libscamperfile0-dev/focal 20191102-1 amd64 development headers for scamper's binary dump file access 
+  library
+libshell-config-generate-perl/focal,focal 0.34-1 all Perl module to generate config file for any shell libshimdandy-java/focal,focal 1.2.1-1 all Shim wrapping 
+  multiple Clojure runtimes into the same JVM
+libsidutils-dev/focal 2.1.1-15ubuntu2 amd64 utility functions for SID players libsidutils0/focal,now 2.1.1-15ubuntu2 amd64 [installed,automatic] utility 
+  functions for SID players
+libsimdjson-dev/focal 0.2.1-1build1 amd64 Parsing gigabytes of JSON per second (development) libsimdjson0/focal 0.2.1-1build1 amd64 Parsing gigabytes of JSON 
+  per second (shared object)
+libsl0-heimdal/focal 7.7.0+dfsg-1ubuntu1 amd64 Heimdal Kerberos - SL support library libsleef-dev/focal 3.3.1-6 amd64 SLEEF Vectorized Math Library 
+  (development)
+libsleef3/focal 3.3.1-6 amd64 SLEEF Vectorized Math Library (libraries) libslurmdb-perl/focal 19.05.5-1 amd64 Perl API for the SLURM database 
+libsmdev-dev/focal 20190315-1.1 amd64
+  storage media device access library -- development files libsmdev-utils/focal 20190315-1.1 amd64 storage media device access library -- Utilities 
+libsmdev1/focal 20190315-1.1 amd64
+  storage media device access library libsolv0/focal 0.6.36-2 amd64 dependency solver using a satisfiability algorithm (shared library) libsolvext0/focal 
+0.6.36-2 amd64
+  dependency solver using a satisfiability algorithm (extensions) libspectrum-dev/focal 1.4.4-1 amd64 ZX Spectrum emulator library - Development files 
+libspectrum8/focal 1.4.4-1 amd64
+  ZX Spectrum emulator library - Shared libraries libspoa-dev/focal 3.0.1-1build1 amd64 SIMD partial order alignment library (development files) libspoa3/focal 
+3.0.1-1build1 amd64
+  SIMD partial order alignment library libsquish-dev/focal 1.15-1build1 amd64 DXT texture compression library - development files libsquish0/focal,now 
+1.15-1build1 amd64 [installed,automatic]
+  DXT texture compression library libssw-dev/focal 1.1-9 amd64 Development headers and static libraries for libssw libssw-java/focal 1.1-9 amd64 Java bindings 
+  for libssw
+libssw0/focal 1.1-9 amd64 fast SIMD parallelized implementation of the Smith-Waterman algorithm libstdc++-10-dev-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  GNU Standard C++ Library v3 (development files) (amd64) libstdc++-10-pic-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Standard C++ Library v3 
+  (shared library subset kit) (amd64)
+libstdc++-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all GNU Standard C++ Library v3 (development files) (amd64) 
+libstdc++-8-pic-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  GNU Standard C++ Library v3 (shared library subset kit) (amd64) libstdc++-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all GNU Standard C++ Library v3 
+  (development files) (amd64)
+libstdc++-9-pic-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all GNU Standard C++ Library v3 (shared library subset kit) (amd64) 
+libstdc++6-10-dbg-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  GNU Standard C++ Library v3 (debug build) (amd64) libstdc++6-8-dbg-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all GNU Standard C++ Library v3 (debug build) 
+  (amd64)
+libstdc++6-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Standard C++ Library v3 (amd64) libstonithd26/focal 2.0.3-3ubuntu3 amd64 cluster resource 
+  manager STONITH daemon library
+libstrongswan/focal 5.8.2-1ubuntu3 amd64 strongSwan utility and crypto library libsuitesparse-dev/focal 1:5.7.1+dfsg-2 amd64 libraries for sparse matrices 
+  computations (development files)
+libsystemd-dev/focal-updates 245.4-4ubuntu3.1 amd64 systemd utility library - development files libsystemd0/focal-updates,now 245.4-4ubuntu3.1 amd64 
+[installed,automatic]
+  systemd utility library libteam5/focal 1.30-1 amd64 library for communication with Netlink kernel module libteamdctl0/focal,now 1.30-1 amd64 
+[installed,automatic]
+  library for communication with `teamd` process libtemplate-plugin-digest-md5-perl/focal,focal 0.05-1 all interface to the MD5 Algorithm for the Template 
+  Toolkit
+libtemplate-provider-fromdata-perl/focal,focal 0.13-2 all module to load templates from your __DATA__ section libtest-cmd-perl/focal,focal 1.09-1 all perl 
+  module which provides a testing framework
+libtest-command-simple-perl/focal,focal 0.05-1 all Perl module to test external commands libtest-file-contents-perl/focal,focal 0.23-1 all Perl module for 
+  testing the contents of files
+libtomcrypt-dev/focal 1.18.2-3 amd64 static library, header files and documentation for libtomcrypt libtomcrypt1/focal 1.18.2-3 amd64 public domain open source 
+  cryptographic toolkit
+libtsan0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all ThreadSanitizer -- a Valgrind-based detector of data races (runtime) 
+libtss2-tcti-tabrmd-dev/focal 2.3.1-1 amd64
+  TPM2 Access Broker & Resource Management - static libraries and headers libtss2-tcti-tabrmd0/focal 2.3.1-1 amd64 TPM2 Access Broker & Resource Management - 
+  shared libraries
+libturbojpeg0-dev/focal 2.0.3-0ubuntu1 amd64 Development files for the TurboJPEG library libubsan1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all UBSan 
+  -- undefined behaviour sanitizer (runtime)
+libui-utilcpp-dev/focal 1.10.0-1build1 amd64 UI C++ utility library (development) libui-utilcpp9v5/focal 1.10.0-1build1 amd64 UI C++ utility library (run time) 
+libuser-simple-perl/focal,focal 1.45-2 all
+  module for simple user sessions management libuuidm-ocaml-dev/focal 0.9.7-1build1 amd64 Universally unique identifiers for OCaml 
+libvirt-daemon-system-systemd/focal 6.0.0-0ubuntu8 amd64
+  Libvirt daemon configuration files (systemd) libvirt-daemon-system-sysv/focal 6.0.0-0ubuntu8 amd64 Libvirt daemon configuration files (sysv) 
+libvirt-sandbox-1.0-5/focal 0.5.1+git20160404-1ubuntu2 amd64
+  Application sandbox toolkit shared library libvirt-sandbox-1.0-dev/focal 0.5.1+git20160404-1ubuntu2 amd64 Development files for libvirt-sandbox library 
+libvmdk-dev/focal 20181227-1.1 amd64
+  VMWare Virtual Disk format access library -- development files libvmdk-utils/focal 20181227-1.1 amd64 VMWare Virtual Disk format access library -- Utilities 
+libvmdk1/focal 20181227-1.1 amd64
+  VMWare Virtual Disk format access library libvolk2-bin/focal 2.2.1-1 amd64 vector optimized runtime tools libvolk2-dev/focal 2.2.1-1 amd64 vector optimized 
+  function headers
+libvolk2-doc/focal,focal 2.2.1-1 all vector optimized library documentation libvolk2.2/focal 2.2.1-1 amd64 vector optimized functions 
+libwind0-heimdal/focal,now 7.7.0+dfsg-1ubuntu1 amd64 [installed,automatic]
+  Heimdal Kerberos - stringprep implementation libx32asan5-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all AddressSanitizer -- a fast memory error detector 
+  (x32)
+libx32asan6-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all AddressSanitizer -- a fast memory error detector (x32) libx32atomic1-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  support library providing __atomic built-in functions (x32) libx32gcc-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC support library (x32 
+  development files)
+libx32gcc-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all GCC support library (x32 development files) libx32gcc-9-dev-amd64-cross/focal,focal 
+9.3.0-10ubuntu1cross2 all
+  GCC support library (x32 development files) libx32gcc-s1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC support library (amd64) (x32) 
+libx32gfortran-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Fortran applications (x32 development files) libx32gfortran-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library 
+  for GNU Fortran applications (x32 development files)
+libx32gfortran-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Fortran applications (x32 development files) 
+libx32gfortran5-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Fortran applications (x32) libx32go-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all Runtime library for GNU Go 
+  applications (x32 development files)
+libx32go-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Go applications (x32 development files) 
+libx32go13-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  Runtime library for GNU Go applications (x32) libx32go14-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Go applications (x32) 
+libx32go16-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Go applications (x32) libx32gomp1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC OpenMP (GOMP) support library (x32) 
+libx32gphobos-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Phobos D standard library (x32 development files) libx32gphobos-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Phobos D standard library (x32 
+  development files)
+libx32gphobos-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Phobos D standard library (x32 development files) libx32gphobos1-amd64-cross/focal,focal 
+10-20200411-0ubuntu1cross1 all
+  Phobos D standard library (runtime library) libx32gphobos76-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Phobos D standard library (runtime library) 
+libx32itm1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  GNU Transactional Memory Library (x32) libx32lsan0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all LeakSanitizer -- a memory leak detector (x32) 
+libx32objc-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Objective-C applications (x32 development files) libx32objc-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all Runtime library 
+  for GNU Objective-C applications (x32 development files)
+libx32objc-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all Runtime library for GNU Objective-C applications (x32 development files) 
+libx32objc4-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all
+  Runtime library for GNU Objective-C applications (x32) libx32quadmath0-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GCC Quad-Precision Math Library 
+  (x32)
+libx32stdc++-10-dev-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Standard C++ Library v3 (development files) (amd64) 
+libx32stdc++-8-dev-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  GNU Standard C++ Library v3 (development files) (amd64) libx32stdc++-9-dev-amd64-cross/focal,focal 9.3.0-10ubuntu1cross2 all GNU Standard C++ Library v3 
+  (development files) (amd64)
+libx32stdc++6-10-dbg-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Standard C++ Library v3 (debug build) (amd64) 
+libx32stdc++6-8-dbg-amd64-cross/focal,focal 8.4.0-3ubuntu1cross1 all
+  GNU Standard C++ Library v3 (debug build) (amd64) libx32stdc++6-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all GNU Standard C++ Library v3 (amd64) 
+  (x32)
+libx32ubsan1-amd64-cross/focal,focal 10-20200411-0ubuntu1cross1 all UBSan -- undefined behaviour sanitizer (x32) libxcb-imdkit-dev/focal 0~20190825+ds1-2 amd64 
+  XIM protocol implementation in XCB (development files)
+libxcb-imdkit0/focal 0~20190825+ds1-2 amd64 XIM protocol implementation in XCB light-locker/focal 1.8.0-1ubuntu1 amd64 simple screen locker for lightDM display 
+  manager
+likwid/focal 5.0.1+dfsg1-1 amd64 toolsuite for performance oriented programmers lime-forensics-dkms/focal,focal 1.9-1 all kernel module to memory dump (DKMS) 
+linux-image-5.4.0-1009-kvm/focal 5.4.0-1009.9 amd64
+  Linux kernel image for version 5.4.0 on 64 bit x86 SMP linux-image-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64 Linux kernel image for 
+  version 5.4.0 on 64 bit x86 SMP
+linux-image-unsigned-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64 Linux kernel image for version 5.4.0 on 64 bit x86 SMP 
+linux-image-unsigned-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64
+  Linux kernel image for version 5.4.0 on 64 bit x86 SMP linux-libc-dev-amd64-cross/focal,focal 5.4.0-21.25cross1 all Linux Kernel Headers for development (for 
+  cross-compiling)
+linux-modules-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64 Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP linux-modules-5.4.0-1009-kvm/focal 
+5.4.0-1009.9 amd64
+  Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP linux-modules-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64 Linux kernel 
+  extra modules for version 5.4.0 on 64 bit x86 SMP
+linux-modules-5.4.0-1011-kvm/focal-updates,focal-security 5.4.0-1011.11 amd64 Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP 
+linux-modules-extra-5.4.0-1009-gcp/focal 5.4.0-1009.9 amd64
+  Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP linux-modules-extra-5.4.0-1011-gcp/focal-updates,focal-security 5.4.0-1011.11 amd64 Linux 
+  kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+live-config/focal,focal 5.20190519 all Live System Configuration Components live-config-systemd/focal,focal 5.20190519 all Live System Configuration Components 
+  (systemd backend)
+lmdb-doc/focal,focal 0.9.24-1 all Lightning Memory-Mapped Database doxygen documentation lmdb-go-tools/focal 1.8.0+git20170215.a14b5a3-2 amd64 utilities for 
+  command-line lmdb usage
+lmdb-utils/focal 0.9.24-1 amd64 Lightning Memory-Mapped Database Utilities loadlin/focal 1.6f-7 amd64 loader (running under DOS) for LINUX kernel images 
+logsave/focal,now 1.45.5-2ubuntu1 amd64 [installed,automatic]
+  save the output of a command in a log file lshw/focal,now 02.18.85-0.3ubuntu2 amd64 [installed,automatic] information about hardware configuration 
+lshw-gtk/focal 02.18.85-0.3ubuntu2 amd64
+  graphical information about hardware configuration lua-md5/focal 1.2+git+1+8d87fee-1.1 amd64 MD5 library for the Lua language lua-md5-dev/focal 
+1.2+git+1+8d87fee-1.1 amd64
+  MD5 library for the Lua language lua-mmdb/focal,focal 0.1-1 all IP geolocation library for Lua lua-systemd/focal 0~git20160517-2 amd64 Systemd bindings for 
+  Lua
+lua-systemd-dev/focal 0~git20160517-2 amd64 Development files for lua-systemd library mailagent/focal 1:3.1-81-4build1 amd64 automatic mail-processing tool and 
+  filter
+maildir-utils/focal 1.2.0-2build1 amd64 Set of utilities to deal with Maildirs (upstream name mu) maildrop/focal 2.9.3-2build2 amd64 mail delivery agent with 
+  filtering abilities (set-GID=mail)
+mailscripts/focal,focal 0.18-1 all collection of scripts for manipulating e-mail on Debian makeself/focal,focal 2.4.0-1 all utility to generate 
+  self-extractable archives
+mandoc/focal 1.14.4-1 amd64 BSD manpage compiler toolset mate-session-manager/focal 1.24.0-2ubuntu1 amd64 Session manager of the MATE desktop environment 
+mate-user-share/focal 1.24.0-2 amd64
+  User level public file sharing via WebDAV mate-user-share-common/focal,focal 1.24.0-2 all User level public file sharing via WebDAV (common files) 
+mb2md/focal,focal 3.20-9 all
+  Convert Mbox mailboxes to Maildir format mblaze/focal 0.6-1 amd64 UNIX utilities to deal with Maildir mda-lv2/focal 1.2.4-1 amd64 Paul Kellett's MDA plugins 
+  ported to LV2
+mdadm/focal 4.1-5ubuntu1 amd64 tool to administer Linux MD arrays (software RAID) mdbtools/focal 0.7.1-6build1 amd64 JET / MS Access database (MDB) tools 
+mdbtools-dev/focal 0.7.1-6build1 amd64
+  mdbtools development files mdbtools-doc/focal,focal 0.7.1-6build1 all Documentation for MDB tools mdetect/focal 0.5.2.4 amd64 mouse device autodetection tool 
+mdevctl/focal,focal 0.59-1 all
+  Mediated device management utility for Linux mdf2iso/focal 0.3.1-2 amd64 simple utility to convert mdf to iso / cue / toc images mdfinder.app/focal 0.9.4-2 
+amd64
+  GNUstep Finder and system-wide search system mdk/focal 1.2.10+dfsg-2 amd64 MIX Development Kit mdk-doc/focal,focal 1.2.10-1 all Documentation for the MIX 
+  Development Kit
+mdk3/focal 6.0-6 amd64 Wireless attack tool for IEEE 802.11 networks mdk4/focal 4.1+git20190904-1 amd64 Wireless attack tool for IEEE 802.11 networks mdm/focal 
+0.1.3-2.1build3 amd64
+  Utilities for single-host parallel shell scripting mdns-scan/focal 0.5-5 amd64 Scan for mDNS/DNS-SD services published on the local network mdp/focal 
+1.0.15-1 amd64
+  command-line based Markdown presentation tool mediathekview/focal,focal 13.2.1-3 all view streams from German public television stations memdump/focal 1.01-8 
+amd64
+  utility to dump memory contents to standard output mgetty-pvftools/focal 1.2.1-1 amd64 Programs for listening and manipulating pvf and rmd files 
+micropython/focal 1.12-1 amd64
+  Unix/Linux port of MicroPython for board-independent use on the host micropython-doc/focal,focal 1.12-1 all Documentation and examples for MicroPython - HTML 
+  format
+milkytracker/focal 1.02.00+dfsg-2build1 amd64 music creation tool inspired by Fast Tracker 2 minidisc-utils/focal 0.9.16-2build1 amd64 Command line utilities 
+  for MiniDisc access
+mitmproxy/focal,focal 4.0.4-6.1 all SSL-capable man-in-the-middle HTTP proxy mkbootimg/focal,focal 1:8.1.0+r23-5ubuntu2 all Creates Android boot images 
+mkosi/focal,focal 5-1 all
+  create legacy-free OS images mlton-runtime-x86-64-linux-gnu/focal 20130715-3 amd64 Optimizing compiler for Standard ML - amd64 runtime libraries mm3d/focal 
+1.3.12-1build1 amd64
+  OpenGL based 3D model editor mmc-utils/focal 0+git20180327.b4fe0c8c-1 amd64 Userspace tools for MMC/SD devices mmdb-bin/focal 1.4.2-0ubuntu1 amd64 IP 
+  geolocation lookup command-line tool
+mmdebstrap/focal,focal 0.4.1-6 all create a Debian chroot modem-cmd/focal,focal 1.0.2-3 all send arbitrary AT commands to your modem modplug-tools/focal 
+0.5.3-3 amd64
+  Modplug playing console tools monit/focal 1:5.26.0-4 amd64 utility for monitoring and managing daemons or similar programs 
+monitoring-plugins-basic/focal-updates 2.2-6ubuntu1.1 amd64
+  Plugins for nagios compatible monitoring systems (basic) mono-runtime/focal,now 6.8.0.105+dfsg-2 amd64 [installed,automatic] Mono runtime - default version 
+mono-runtime-boehm/focal 6.8.0.105+dfsg-2 amd64
+  Mono runtime - Boehm mono-runtime-common/focal,now 6.8.0.105+dfsg-2 amd64 [installed,automatic] Mono runtime - common files mono-runtime-sgen/focal,now 
+6.8.0.105+dfsg-2 amd64 [installed,automatic]
+  Mono runtime - SGen mtree-netbsd/focal 20180822-5build1 amd64 Validates directory tree against specification mupen64plus-video-glide64/focal 
+2.0.0+33+g764d9fe-6build1 amd64
+  Glide64 high-level graphics emulation for mupen64plus mupen64plus-video-glide64mk2/focal 2.5-7build1 amd64 Glide64Mk2 high-level graphics emulation for 
+  mupen64plus
+musescore3/focal 3.2.3+dfsg1-4build1 amd64 cross-platform multi-lingual music composition and notation mutt/focal 1.13.2-1 amd64 text-based mailreader 
+  supporting MIME, GPG, PGP and threading
+mzclient/focal,focal 0.9.0-6 all CLI library for multicast DNS service discovery (commandline tool) nagios-plugins-contrib/focal 25.20191015+1ubuntu1 amd64 
+  Plugins for nagios compatible monitoring systems
+nautilus-gtkhash/focal 1.2-1build1 amd64 nautilus extension for computing checksums and more using gtkhash needrestart/focal,focal 3.4-6 all check which 
+  daemons need to be restarted after library upgrades
+nemo-gtkhash/focal 1.2-1build1 amd64 nemo extension for computing checksums and more using gtkhash netctl/focal,focal 1.20-2 all Profile based systemd network 
+  management
+netrw/focal 1.3.2-3 amd64 netcat like tool with nice features to transport files over network networkd-dispatcher/focal,focal,now 2.0.1-1 all 
+[installed,automatic]
+  Dispatcher service for systemd-networkd connection status changes nextcloud-desktop-cmd/focal 2.6.2-1build1 amd64 folder synchronization with an Nextcloud 
+  server - cmd client
+nictools-pci/focal 1.3.8-2build1 amd64 Diagnostic tools for many PCI Ethernet cards node-almond/focal,focal 0.3.3+dfsg-3 all minimal AMD API implementation for 
+  use in optimized browser builds
+node-amdefine/focal,focal 1.0.1-2 all Asynchronous Module Definition (AMD) for Node.js node-array-flatten/focal,focal 2.1.0-2 all Flatten nested arrays 
+node-cache-loader/focal,focal 2.0.1-2 all
+  Caches the result of following loaders on disk node-coffee-loader/focal,focal 0.9.0-2 all coffee loader module for webpack node-deep-eql/focal,focal 4.0.0-2 
+all
+  Improved deep equality testing for Node.js and the browser node-esutils/focal,focal 2.0.2-1 all utility box for ECMAScript language tools 
+node-file-loader/focal,focal 3.0.1-1 all
+  file loader module for webpack node-hash.js/focal,focal 1.1.7-1 all Hash functions that could be run by both browser and nodejs node-jju/focal,focal 1.1.0-1 
+all
+  set of utilities to work with JSON / JSON5 documents node-lex-parser/focal,focal 0.1.4-5build2 all parser for lexical grammars used by jison and jison-lex 
+node-lodash-compat/focal,focal 3.10.2-1 all
+  compatibility build of lodash modular utilities node-map-visit/focal,focal 1.0.0-1 all Map `visit` over an array of objects node-md5-hex/focal,focal 2.0.0-2 
+all
+  Create a MD5 hash with hex encoding node-md5-o-matic/focal,focal 0.1.1-2 all Fast and simple MD5 hashing utility with zero module dependencies 
+node-md5.js/focal,focal 1.3.5-3 all
+  implementation of MD5 in pure JavaScript node-mdn-data/focal,focal 1.0.0-1 all Open Web data by the Mozilla Developer Network node-object-visit/focal,focal 
+1.0.1-1 all
+  Call a specified method on each value in the given object node-pascalcase/focal,focal 0.1.1-1 all Convert a string to pascal-case node-ramda/focal,focal 
+0.26.1+dfsg-2 all
+  practical functional library for JavaScript programmers node-requirejs/focal,focal 2.3.6-1 all JavaScript file and module loader - NodeJS 
+node-requirejs-text/focal,focal 2.0.16-1 all
+  RequireJS/AMD loader plugin for text resources node-ripemd160/focal,focal 2.0.2-4 all Pure javascript implementation of ripemd160 hash function 
+node-seedrandom/focal,focal 2.4.3+dfsg-1 all
+  Seeded random number generator for Javascript node-umd/focal,focal 3.0.3+ds-2 all Universal Module Definition for use in automated build systems 
+node-unique-string/focal,focal,now 1.0.0-1 all [installed,automatic]
+  Generate a unique random string node-worker-loader/focal,focal 2.0.0-2 all worker loader module for webpack notary/focal 0.6.1~ds2-5 amd64 tool for running 
+  and interacting with trusted collections
+numdiff/focal 5.9.0-1 amd64 Compare similar files with numeric fields nvidia-340/focal 340.108-0ubuntu2 amd64 NVIDIA binary driver - version 340.108 
+nwchem/focal 7.0.0-2 amd64
+  High-performance computational chemistry software odbc-mdbtools/focal 0.7.1-6build1 amd64 MDB tools ODBC driver ogmtools/focal 1:1.5-4build2 amd64 Tools for 
+  manipulating Ogg multimedia streams
+olpc-powerd/focal 23-2build1 amd64 OLPC XO power management support daemon omake/focal 0.9.8.5-3-10 amd64 build system with automated dependency analysis 
+oomd/focal 0.3.1-1 amd64
+  userspace Out-Of-Memory (OOM) killer for Linux systems open-infrastructure-container-tools/focal,focal 20200121-1 all manage systemd-nspawn containers 
+openbabel/focal 3.0.0+dfsg-3ubuntu3 amd64
+  Chemical toolbox utilities (cli) openbabel-gui/focal 3.0.0+dfsg-3ubuntu3 amd64 Chemical toolbox utilities (graphical user interface) 
+openrazer-daemon/focal,focal 2.5.0+dfsg-1ubuntu2 all
+  OpenRazer peripheral drivers (daemon) openstack-pkg-tools/focal,focal 107ubuntu6 all Tools and scripts for building Openstack packages in Debian 
+opensysusers/focal,focal 0.5.1-1 all
+  processes sysusers.d directory to create system users opentmpfiles/focal,focal 0.2+2019.05.21.git.44a55796ba-2 all standalone utility written to process 
+  systemd-style tmpfiles.d files
+openvas/focal,focal 9.0.3 all remote network security auditor - dummy package openvpn-systemd-resolved/focal 1.3.0-3 amd64 integrates OpenVPN with 
+  systemd-resolved
+ophcrack-cli/focal 3.8.0-2build1 amd64 Microsoft Windows password cracker using rainbow tables (cmdline) otp/focal 1:1.2.2-1build1 amd64 Generator for One Time 
+  Pads or Passwords
+owncloud-client-cmd/focal 2.5.1.10973+dfsg-1ubuntu4 amd64 folder synchronization with an ownCloud server - cmd client pacemaker/focal 2.0.3-3ubuntu3 amd64 
+  cluster resource manager
+pacemaker-cli-utils/focal 2.0.3-3ubuntu3 amd64 cluster resource manager command line utilities pacemaker-common/focal,focal 2.0.3-3ubuntu3 all cluster resource 
+  manager common files
+pacemaker-dev/focal 2.0.3-3ubuntu3 amd64 cluster resource manager development pacemaker-doc/focal,focal 2.0.3-3ubuntu3 all cluster resource manager HTML 
+  documentation
+pacemaker-remote/focal 2.0.3-3ubuntu3 amd64 cluster resource manager proxy daemon for remote nodes pacemaker-resource-agents/focal,focal 2.0.3-3ubuntu3 all 
+  cluster resource manager general resource agents
+packer/focal 1.3.4+dfsg-4 amd64 tool for creating machine images for multiple platforms par2/focal 0.8.1-1 amd64 PAR 2.0 compatible file verification and 
+  repair tool
+pcp-import-collectl2pcp/focal 5.0.3-1 amd64 Tool for importing data from collectl into PCP archive logs pcp-import-ganglia2pcp/focal,focal 5.0.3-1 all Tool for 
+  importing data from ganglia into PCP archive logs
+pcp-import-iostat2pcp/focal,focal 5.0.3-1 all Tool for importing data from iostat into PCP archive logs pcp-import-mrtg2pcp/focal,focal 5.0.3-1 all Tool for 
+  importing data from MRTG into PCP archive logs
+pcp-import-sar2pcp/focal,focal 5.0.3-1 all Tool for importing data from sar into PCP archive logs pcp-import-sheet2pcp/focal,focal 5.0.3-1 all Tool for 
+  importing data from a spreadsheet into PCP archive logs
+pdd/focal,focal 1.4-2 all Tiny date, time diff calculator php-auth-sasl/focal,focal 1.0.6-3 all Abstraction of various SASL mechanism responses 
+php-fabiang-sasl/focal,focal 1.0.0-1 all
+  PHP SASL2 Authentication Library php-fdomdocument/focal,focal 1.6.6-2 all extension to PHP's standard DOM php-mdb2/focal,focal 2.5.0b5-2 all database 
+  abstraction layer
+php-mdb2-driver-mysql/focal,focal 1.5.0b4-2 all mysql MDB2 driver php-mdb2-driver-pgsql/focal,focal 1.5.0b4-2 all pgsql MDB2 driver php-net-smtp/focal,focal 
+1.9.0-1 all
+  PHP PEAR module implementing SMTP protocol php-nrk-predis/focal 1.0.0-1 amd64 Flexible and feature-complete PHP client library for the Redis key-value store 
+phpmd/focal,focal 2.8.1-2build1 all
+  PHP Mess Detector pimd/focal 2.3.2-3 amd64 multicast routing daemon (PIMv2) pipexec/focal 2.5.5-2 amd64 create a directed graph of processes and pipes 
+pkg-config-x86-64-linux-gnu/focal 4:9.3.0-1ubuntu2 i386
+  manage compile and link flags for libraries for amd64 architecture pkg-js-autopkgtest/focal,focal 0.9.31 all collection of autopktest scripts for Nodejs 
+  packages
+plsense/focal,focal 0.3.4-1 all Omni Completion Tool for Perl pluma/focal 1.24.0-1 amd64 official text editor of the MATE desktop environment 
+pluma-common/focal,focal 1.24.0-1 all
+  official text editor of the MATE desktop environment (common files) pluma-dev/focal 1.24.0-1 amd64 official text editor of the MATE desktop environment 
+  (development files)
+pluma-doc/focal,focal 1.24.0-1 all official text editor of the MATE desktop environment (documentation files) pmd2odg/focal 0.9.6-2build1 amd64 Apple Pagemaker 
+  to OpenDocument converter
+pmdk-convert/focal 1.7-1 amd64 convert pmdk/pmemobj pools to a newer on-memory format pmdk-tools/focal 1.8-1ubuntu1 amd64 Persistent Memory management tools 
+po4a/focal,focal 0.57-2 all
+  tools to ease the translation of documentation postfix-lmdb/focal 3.4.10-1ubuntu1 amd64 LMDB map support for Postfix postgresql-12-rdkit/focal 
+201909.1-2ubuntu5 amd64
+  Cheminformatics and machine-learning software (PostgreSQL Cartridge) profnet-md/focal 1.0.22-6build1 amd64 neural network architecture for metadisorder 
+proftpd-mod-clamav/focal 0.14~rc2-3build1 amd64
+  ProFTPD module mod_clamav proftpd-mod-dnsbl/focal 0.1.5-5 amd64 ProFTPD module mod_dnsbl prometheus-mailexporter/focal 1.0-2 amd64 exports prometheus-style 
+  metrics about mail server functionality
+prometheus-postfix-exporter/focal 0.2.0-2 amd64 Prometheus exporter for Postfix mail servers pst-utils/focal 0.6.74-1build1 amd64 tools for reading Microsoft 
+  Outlook PST files
+pulseaudio-module-zeroconf/focal-updates,focal-security 1:13.99.1-1ubuntu3.2 amd64 Zeroconf module for PulseAudio sound server 
+pulseaudio-utils/focal-updates,focal-security,now 1:13.99.1-1ubuntu3.2 amd64 [installed,automatic]
+  Command line tools for the PulseAudio sound server puppet-module-sbitio-monit/focal,focal 1.0.0-2 all Puppet module for Monit pymol/focal,focal 
+2.3.0+dfsg-1build1 all
+  Molecular Graphics System python-crypto/focal 2.6.1-13ubuntu2 amd64 cryptographic algorithms and protocols for Python python-flask-bcrypt-doc/focal,focal 
+0.7.1-2 all
+  Flask extension that provides bcrypt hashing utilities (doc) python-oslo.service-doc/focal,focal 2.1.1-0ubuntu1 all library for running OpenStack services - 
+  doc
+python3-botan/focal 2.12.1-2build1 amd64 multiplatform crypto library (2.x version), Python3 module python3-cmd2/focal,focal 0.8.5-2.1 all enhanced Python cmd 
+  module - Python 3.x
+python3-crcmod/focal 1.7+dfsg-2build2 amd64 CRC Generator - Python 3.x python3-crypto/focal 2.6.1-13ubuntu2 amd64 cryptographic algorithms and protocols for 
+  Python 3
+python3-dbusmock/focal,focal 0.19-1 all mock D-Bus objects for tests python3-diskimage-builder/focal,focal 2.35.0-0ubuntu1 all image building tools for 
+  Openstack - Python 3.x
+python3-distorm3/focal,focal 3.4.1-4 all powerful disassembler library for x86/AMD64 binary streams (Python3 bindings) 
+python3-django-push-notifications/focal,focal 1.4.1-1 all
+  Send push notifications through GCM or APNS in Django (Python3 version) python3-drms/focal,focal 0.5.7-1 all Access HMI, AIA and MDI data with Python 
+python3-flask-bcrypt/focal,focal 0.7.1-2 all
+  Python 3 flask extension that provides bcrypt hashing utilities python3-gpumodules/focal,focal 2.6.0-1 all adjustment and inspection of AMD GPUs 
+python3-imdbpy/focal,focal 6.8-2 all
+  Python package to access the IMDb's movie database (Python 3) python3-indigo/focal,focal 1.2.3-3build1 all Organic Chemistry Toolkit (Python module) 
+python3-ironic-inspector/focal,focal 1:10.0.1~git2020041316.14b425e-0ubuntu1 all
+  discovering hardware properties for OpenStack Ironic - Python 3 python3-ironic-inspector-client/focal,focal 3.4.0-0ubuntu2 all client for Ironic Inspector - 
+  Python 3.x
+python3-knitpy/focal,focal 0.1.1~git20180430-1 all report generation tool with Python python3-libsmdev/focal 20190315-1.1 amd64 storage media device access 
+  library -- Python 3 bindings
+python3-libvmdk/focal 20181227-1.1 amd64 VMWare Virtual Disk format access library -- Python 3 bindings python3-lmdb/focal 0.86-1.2build1 amd64 Python 3 
+  binding for LMDB Lightning Memory-Mapped Database
+python3-mdp/focal,focal 3.5-1.1 all Modular toolkit for Data Processing python3-mdx-math/focal,focal 0.6-1 all math extension for Python-Markdown 
+python3-netdisco/focal,focal 2.6.0-1 all
+  Library to discover local devices and services (Python 3) python3-openbabel/focal 3.0.0+dfsg-3ubuntu3 amd64 Chemical toolbox library (Python bindings) 
+python3-oslo.service/focal,focal 2.1.1-0ubuntu1 all
+  library for running OpenStack services - Python 3.x python3-pure-sasl/focal,focal 0.5.1+dfsg1-2 all pure Python client SASL implementation - Python 3.x 
+python3-pyaes/focal,focal 1.6.1-3 all
+  Pure-Python implementation of the AES cipher (Python 3) python3-pyclamd/focal,focal 0.4.0-2 all Python 3 interface to the ClamAV daemon 
+python3-pyisomd5sum/focal 1:1.2.3-4build1 amd64
+  ISO9660 checksum Python 3 module python3-pymol/focal 2.3.0+dfsg-1build1 amd64 Molecular Graphics System (Python 3 modules) python3-pypureomapi/focal,focal 
+0.8-1 all
+  ISC DHCP OMAPI protocol implementation in Python3 python3-pystemd/focal 0.7.0-2build1 amd64 systemd binding for Python python3-rdkit/focal 201909.1-2ubuntu5 
+amd64
+  Collection of cheminformatics and machine-learning software python3-scrypt/focal 0.8.0-0.3ubuntu1 amd64 bindings for the scrypt key derivation function 
+  library - Python 3.x
+python3-sdnotify/focal,focal 0.3.1-2 all Python3 implementation of systemd's service notification protocol python3-sievelib/focal,focal 1.1.1-3 all Client-side 
+  Sieve and Managesieve library (Python3 version)
+python3-systemd/focal,now 234-3build2 amd64 [installed,automatic] Python 3 bindings for systemd python3-tmdbsimple/focal,focal 2.2.0-2 all Wrapper for The 
+  Movie Database API (Python3 version)
+python3-urllib3/focal,focal,now 1.25.8-2 all [installed,automatic] HTTP library with thread-safe connection pooling for Python3 python3-vmdkstream/focal,focal 
+0.2-4.1 all
+  Python 3 module for converting raw disk images to VMDK files python3-xstatic-mdi/focal,focal 1.4.57.0-2 all Material Design Icons Webfont XStatic support - 
+  Python 3.x
+python3-zc.customdoctests/focal,focal 1.0.1-2 all Use doctest with other languages (Python 3) qhimdtransfer/focal 0.9.16-2build1 amd64 Transfer software for 
+  HiMD Walkman
+quagga-pimd/focal 1.2.4-4build1 amd64 PIM routing daemon quake4-server/focal 64 i386 dedicated server for Quake 4 r-cran-bitops/focal 1.0-6-4 amd64 GNU R 
+  package implementing bitwise operations
+r-cran-digest/focal 0.6.25-1 amd64 GNU R package for 'hash digest' of R data structures r-cran-mda/focal 0.4-10-2build1 amd64 GNU R mixture and flexible 
+  discriminant analysis
+r-cran-minpack.lm/focal 1.2-1-4 amd64 GNU R Levenberg-Marquardt nonlinear least-squares algorithm found in MINPACK r-cran-numderiv/focal,focal 2016.8-1.1-2 all 
+  GNU R package for accurate numerical derivatives
+r-cran-openssl/focal 1.4.1+dfsg-2ubuntu1 amd64 GNU R toolkit for encryption, signatures and certificates based on OpenSSL r-cran-pkgkitten/focal,focal 0.1.5-1 
+all
+  GNU R package to create simple packages r-cran-rcmdcheck/focal,focal 1.3.3-1 all Run 'R CMD check' from 'R' and Capture Results r-cran-rcmdr/focal,focal 
+2.6-2-1 all
+  GNU R platform-independent basic-statistics GUI r-cran-rcmdrmisc/focal,focal 2.7-0-2 all GNU R package for miscellaneous Rcmdr utilities 
+r-other-chbutils/focal 0.1+git20171026.a226cee-1 amd64
+  GNU R utilities from Harvard School of Public Health Bioinformatics r-other-x4r/focal 1.0.1+git20150806.c6bd9bd-2build1 amd64 XMLA/MDX cube tool for R 
+rasmol/focal 2.7.6.0-1build1 amd64
+  visualization of biological macromolecules rdma-core/focal 28.0-1ubuntu1 amd64 RDMA core userspace infrastructure and documentation realmd/focal 0.16.3-3 
+amd64
+  DBus service for configuring kerberos and other online identities recollcmd/focal 1.26.3-1build1 amd64 Command line programs for recoll 
+resolvconf-admin/focal 0.3-1 amd64
+  setuid helper program for setting up the local DNS resource-agents/focal 1:4.5.0-2ubuntu2 amd64 Cluster Resource Agents revu-tools/focal,focal 0.6.1.5 all 
+  reviewing tools for Debian packages
+rhash/focal 1.3.9-1 amd64 utility for computing hash sums and magnet links ricks-amdgpu-utils/focal,focal 2.6.0-1 all AMD GPU performance adjustment and 
+  monitoring
+rng-tools/focal 5-1ubuntu2 amd64 Daemon to use a Hardware TRNG rng-tools-debian/focal 2.1 amd64 daemon to use a Hardware TRNG (classic version) 
+rng-tools5/focal 5-4 amd64
+  Daemon to use a Hardware TRNG rollup/focal,focal 1.12.0-2build3 all ES6 module bundler for JavaScript rr/focal 5.3.0-2 amd64 application execution recorder, 
+  player and debugger
+rspamd/focal 1.9.4-2build4 amd64 Rapid spam filtering system rtcw-server/focal 1.51.c+dfsg1-2build1 amd64 standalone server for Return to Castle Wolfenstein 
+ruby-asana/focal,focal 0.9.3-3 all
+  official Ruby client for the Asana API ruby-client-side-validations/focal,focal 3.2.6+gh-1 all client side validations made easy for your Rails v3.1+ apps 
+ruby-cmdparse/focal,focal 2.0.6-1 all
+  Advanced command line parsing Ruby module supporting sub-commands ruby-default-value-for/focal,focal 3.3.0-1 all provides a way to specify default values for 
+  ActiveRecord models
+ruby-doorkeeper/focal,focal 5.0.2-2 all OAuth 2 provider for Rails and Grape ruby-equalizer/focal,focal 0.0.11-2 all Ruby module to define equality, 
+  equivalence and inspection methods
+ruby-fission/focal,focal 0.5.0-2 all Command line tool to manage VMware Fusion VMs ruby-generator-spec/focal,focal 0.9.3-1 all Test Rails generators with RSpec 
+ruby-jquery-atwho-rails/focal,focal 1.5.4+dfsg-1 all
+  jquery plugin for @mentions ruby-js-routes/focal,focal 1.4.4-1 all Brings Rails named routes to javascript ruby-kramdown/focal,focal 1.17.0-4 all Fast, 
+  pure-Ruby Markdown-superset converter - ruby library
+ruby-kramdown-rfc2629/focal,focal 1.2.12-0.1 all generate XML2RFC XML from Markdown ruby-memoizable/focal,focal 0.4.2-2 all memoize method return values 
+ruby-minitest-stub-const/focal,focal 0.4-1 all
+  Stub constants for the duration of a block in MiniTest ruby-mousetrap-rails/focal,focal 1.4.6-6 all integrate Mousetrap javascript library with Rails Asset 
+  Pipeline
+ruby-nested-form/focal,focal 0.3.2-2 all conveniently handle multiple models in a single form ruby-numru-misc/focal,focal 0.1.2-2 all Miscellaneous functions 
+  and classes to help Ruby programming
+ruby-omniauth-openid/focal,focal 1.0.1-4 all openid strategy for OmniAuth ruby-omniauth-tumblr/focal,focal 1.2-1 all OmniAuth strategy for Tumblr 
+ruby-rails-timeago/focal,focal 2.17.1-2 all
+  Rails Helper to create time tags usable for jQuery Timeago plugin ruby-responders/focal,focal 2.4.0-3 all set of Rails responders to dry up your application 
+ruby-rgen/focal,focal 0.8.4-1 all
+  Ruby Modelling and Generator Framework ruby-rgfa/focal,focal 1.3.1+dfsg-1 all parse, edit and write GFA format graphs in Ruby 
+ruby-sprockets-export/focal,focal 1.0.0-1 all
+  Sprockets Export runit-systemd/focal,focal 2.1.2-9.2ubuntu1 all system-wide service supervision (systemd integration) s3cmd/focal,focal 2.0.2-1 all 
+  command-line Amazon S3 client
+s4cmd/focal,focal 2.1.0+ds-2 all Super Amazon S3 command line tool sa-compile/focal,focal 3.4.4-1ubuntu1 all Tools for compiling SpamAssassin rules into C 
+samdump2/focal 3.0.0-7 amd64
+  Dump Windows 2k/NT/XP password hashes scamper/focal 20191102-1 amd64 parallel Internet measurement utility sensible-mda/focal 8.15.2-18 amd64 Mail Delivery 
+  Agent wrapper
+shishi/focal 1.0.2-7 amd64 Command line client for the Shishi Kerberos v5 implementation shtool/focal,focal 2.0.8-10 all portable shell tool from the GNU 
+  project
+sicherboot/focal,focal 0.1.5 all systemd-boot integration with UEFI secure boot support slurm-wlm-emulator/focal 19.05.5-1 amd64 SLURM emulator slurmd/focal 
+19.05.5-1 amd64
+  SLURM compute node daemon slurmdbd/focal 19.05.5-1 amd64 Secure enterprise-wide interface to a database for SLURM smcroute/focal 2.4.2-4 amd64 static 
+  multicast router daemon
+snd-nox/focal 20.1-1 amd64 Sound file editor (cmdline) spades/focal 3.13.1+dfsg-2build2 amd64 genome assembler for single-cell and isolates data sets 
+spamassassin/focal,focal 3.4.4-1ubuntu1 all
+  Perl-based spam filter using text analysis spamc/focal 3.4.4-1ubuntu1 amd64 Client for SpamAssassin spam filtering daemon spampd/focal,focal 2.53-1 all 
+  spamassassin based SMTP/LMTP proxy daemon
+spoa/focal 3.0.1-1build1 amd64 SIMD partial order alignment tool ssdeep/focal 2.14.1+git20180629.57fcfff-1build1 amd64 recursive piecewise hashing tool 
+ssw-align/focal 1.1-9 amd64
+  Smith-Waterman aligner based on libssw stacks/focal 2.41+dfsg-1build3 amd64 pipeline for building loci from short-read DNA sequences stealth-doc/focal,focal 
+4.02.00-3 all
+  stealthy File Integrity Checker documentation steamcmd/focal 0~20180105-3 i386 Command-line interface for Valve's Steam steghide/focal 0.5.1-14build1 amd64 
+  steganography hiding tool
+steghide-doc/focal,focal 0.5.1-14build1 all steganography hiding tool - documentation files stlcmd/focal 1.1-1build1 amd64 Suite of commands for generating, 
+  inspecting and manipulating STL files
+storebackup/focal,focal 3.2.1-1 all fancy compressing managing checksumming deduplicating hard-linking cp -ua strongswan-libcharon/focal 5.8.2-1ubuntu3 amd64 
+  strongSwan charon library
+swaks/focal,focal 20190914.0-1 all SMTP command-line test tool syncmaildir/focal 1.3.0-1 amd64 mailbox synchronization tools syncmaildir-applet/focal 1.3.0-1 
+amd64
+  mailbox synchronization tools - GNOME applet syrep/focal 0.9-4.3 amd64 A generic file repository synchronization tool systemctl/focal,focal 1.4.3424-2 all 
+  daemonless "systemctl" command to manage services without systemd
+systemd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed,automatic] system and service manager systemd-bootchart/focal 233-2 amd64 boot performance graphing 
+  tool
+systemd-container/focal-updates 245.4-4ubuntu3.1 amd64 systemd container/nspawn tools systemd-coredump/focal-updates 245.4-4ubuntu3.1 amd64 tools for storing 
+  and retrieving coredumps
+systemd-cron/focal 1.5.14-2 amd64 systemd units to provide cron daemon & anacron functionality systemd-journal-remote/focal-updates 245.4-4ubuntu3.1 amd64 
+  tools for sending and receiving remote journal logs
+systemd-sysv/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed,automatic] system and service manager - SysV links systemd-tests/focal-updates 
+245.4-4ubuntu3.1 amd64
+  tests for systemd systemd-timesyncd/focal-updates,now 245.4-4ubuntu3.1 amd64 [installed,automatic] minimalistic service to synchronize local time with NTP 
+  servers
+systray-mdstat/focal,focal 1.1.0-1 all Notifies about Linux Software RAID changes in system tray tcl-trf/focal 2.1.4-dfsg3-2build1 amd64 Tcl data 
+  transformations - runtime library
+tcl-trf-dev/focal 2.1.4-dfsg3-2build1 amd64 Tcl data transformations - development files tcl-trf-doc/focal,focal 2.1.4-dfsg3-2build1 all Tcl data 
+  transformations - documentation
+tcllib/focal,focal 1.20+dfsg-1 all Standard Tcl Library tellico/focal 3.2.3-1build1 amd64 Collection manager for books, videos, music, etc 
+tellico-data/focal,focal 3.2.3-1build1 all
+  Collection manager for books, videos, music, etc [data] tellico-doc/focal,focal 3.2.3-1build1 all Collection manager for books, videos, music, etc [doc] 
+tellico-scripts/focal,focal 3.2.3-1build1 all
+  Collection manager for books, videos, music, etc [scripts] termdebug/focal 2.2+dfsg-1build4 amd64 Tools for recording and replaying terminal I/O 
+texlive-fonts-extra/focal,focal 2019.202000218-1 all
+  TeX Live: Additional fonts texlive-lang-english/focal,focal 2019.20200218-1 all TeX Live: US and UK English texlive-latex-base/focal,focal 2019.20200218-1 
+all
+  TeX Live: LaTeX fundamental packages texlive-latex-extra/focal,focal 2019.202000218-1 all TeX Live: LaTeX additional packages 
+texlive-latex-recommended/focal,focal 2019.20200218-1 all
+  TeX Live: LaTeX recommended packages thunar-gtkhash/focal 1.2-1build1 amd64 thunar extension for computing checksums and more using gtkhash tiger/focal 
+1:3.2.4~rc1-2 amd64
+  security auditing and intrusion detection tools for Linux timidity-el/focal,focal 2.14.0-8build1 all Emacs front end to Timidity++ tofrodos/focal 1.7.13+ds-4 
+amd64
+  Converts DOS <-> Unix text files, alias tofromdos tpm2-abrmd/focal 2.3.1-1 amd64 TPM2 Access Broker & Resource Management Daemon trace-cmd/focal 
+2.8.3-4build1 amd64
+  Utility for retrieving and analyzing function tracing in the kernel trocla/focal,focal 0.2.3-1 all generate and store passwords and certificates on a central 
+  server
+tsdecrypt/focal 10.0-2build1 amd64 decrypt MPEG transport stream tse3play/focal 0.3.1-6build1 amd64 MIDI/TSE3MDL player/converter tutka/focal 1.1.3-2build1 
+amd64
+  tracker style MIDI sequencer tuxcmd/focal 0.6.70+dfsg-2build1 amd64 twin-panel (commander-style) file manager using GTK+ 2 tuxcmd-modules/focal 
+0.6.70+ds-5build1 amd64
+  VFS modules for tuxcmd file manager ucommon-utils/focal 7.0.0-16ubuntu2 amd64 lightweight C++ threading and sockets - utilities umview-mod-umdevtap/focal 
+0.8.2-1.2 amd64
+  View-OS in user space - Virtual TUN/TAP module upx-ucl/focal 3.95-2build1 amd64 efficient live-compressor for executables uw-mailutils/focal 8:2007f~dfsg-7 
+amd64
+  c-client support programs uwsgi-core/focal 2.0.18-11ubuntu1 amd64 fast, self-healing application container server (core) v4l-utils/focal 1.18.0-2build1 amd64 
+  Collection of command line video4linux utilities
+vbackup/focal,focal 1.0.1-1.1 all modular backup utility vblade/focal 24-3 amd64 virtual AoE blade emulator vdr-plugin-epgsync/focal 1.0.1-6build1 amd64 VDR 
+  plugin for EPG synchronization between VDR systems
+vdr-plugin-streamdev-client/focal 0.6.1+git20180514-3build1 amd64 VDR Plugin to stream Live-TV to other VDR's - client part vdr-plugin-streamdev-server/focal 
+0.6.1+git20180514-3build1 amd64
+  VDR Plugin to stream Live-TV to other VDR's - server part vdr-plugin-svdrpservice/focal 1.0.0-8build1 amd64 VDR plugin that provides a SVDRP service for 
+  other plugins
+view3dscene/focal 3.18.0-3 amd64 VRML / X3D browser, and a viewer for other 3D model formats viewmol/focal 2.4.1-26ubuntu1 amd64 graphical front end for 
+  computational chemistry programs
+virt-sandbox/focal 0.5.1+git20160404-1ubuntu2 amd64 Application sandbox toolkit vmdb2/focal,focal 0.13.2+git20191220-1 all creator of disk images with Debian 
+  installed
+vmdk-stream-converter/focal,focal 0.2-4.1 all transitional dummy package vpnc/focal 0.5.3r550-3.1 amd64 Cisco-compatible VPN client webcamd/focal,focal 0.7.6-6 
+all
+  Capture images from video devices webpack/focal,focal 4.30.0-9 all Packs CommonJs/AMD modules for the browser wings3d/focal 2.2.4-4 amd64 Nendo-inspired 3D 
+  polygon mesh modeller
+wmdate/focal 0.7-4.1build1 amd64 Calendar for window manager docking bars wmdiskmon/focal 0.0.2-3build1 amd64 dockapp to display disk usage wmdocker/focal 
+1.5-2 amd64
+  System tray for KDE3/GNOME2 docklet applications wmdrawer/focal 0.10.5-4 amd64 Window Maker dockapp providing a drawer to launch applications x11vnc/focal 
+0.9.16-3 amd64
+  VNC server to allow remote access to an existing X session xdrawchem/focal 1:1.10.2.1-3build1 amd64 Chemical structures and reactions editor 
+xen-hypervisor-4.11-amd64/focal 4.11.3+24-g14b62ab3e5-1ubuntu2 amd64
+  Xen Hypervisor on AMD64 xen-hypervisor-4.9-amd64/focal 4.11.3+24-g14b62ab3e5-1ubuntu2 amd64 Transitional package for upgrade xen-system-amd64/focal 
+4.11.3+24-g14b62ab3e5-1ubuntu2 amd64
+  Xen System on AMD64 (metapackage) xen-utils-4.11/focal 4.11.3+24-g14b62ab3e5-1ubuntu2 amd64 XEN administrative tools xfce4-goodies/focal 4.14.0 amd64 
+  enhancements for the Xfce4 Desktop Environment
+xmount/focal 0.7.6-2 amd64 tool to crossmount between multiple input and output harddisk images xmpuzzles/focal 7.7.1-1.1 amd64 collection of puzzles for X 
+  (Motif version)
+xserver-xorg-video-amdgpu/focal,now 19.1.0-1 amd64 [installed,automatic] X.Org X server -- AMDGPU display driver xserver-xorg-video-amdgpu-hwe-18.04/focal 
+3:14.5 amd64
+  Transitional package for xserver-xorg-video-amdgpu-hwe-18.04 xserver-xorg-video-ati/focal,now 1:19.1.0-1 amd64 [installed,automatic] X.Org X server -- 
+  AMD/ATI display driver wrapper
+xserver-xorg-video-radeon/focal,now 1:19.1.0-1 amd64 [installed,automatic] X.Org X server -- AMD/ATI Radeon display driver yamdi/focal 1.4-3 amd64 utility for 
+  adding metadata to flash video files
+yasm/focal 1.3.0-2ubuntu1 amd64 modular assembler with multiple syntaxes support ycmd/focal 0+20191222+git2771f6f+ds-1build5 amd64 code-completion & 
+  comprehension server
+ykush-control/focal 1.1.0+ds-1build1 amd64 control application for Yepkit YKUSH Switchable USB Hub board youtube-dl/focal,focal,now 2020.03.24-1 all 
+[installed,automatic]
+  downloader of videos from YouTube and other sites zam-plugins/focal 3.9~repack3-1build1 amd64 Collection of LV2, LADSPA, LINUX-VST and JACK plugins 
+zsnapd/focal,focal 0.8.11h-1ubuntu2 all
+  ZFS Snapshot Daemon written in python zsnapd-rcmd/focal,focal 0.8.11h-1ubuntu2 all Remote sshd command checker for ZFS Snapshot Daemon
