@@ -1,9 +1,9 @@
 # SnowEffect
 
 ## ¿Qué usar?
-..* Sistema operativo `Gnu/linux`  
-..* Libreria `ncurses.h`  
-..* Compilador `g++`  
+* Sistema operativo `Gnu/linux`  
+* Libreria `ncurses.h`  
+* Compilador `g++`  
 
 ## Compilar/Ejecutar
 g++ main.cpp -o main -lncurses  
