@@ -6,8 +6,8 @@
 * Compilador `g++`  
 
 ## Compilar/Ejecutar
-g++ main.cpp -o main -lncurses  
-./main  
+> g++ main.cpp -o main -lncurses  
+> > ./main
 
 ## Instalar
 **g++ main.cpp -o main -lncurses**  
