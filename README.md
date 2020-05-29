@@ -1,6 +1,6 @@
 # SnowEffect
 
-## Que usar
+## ¿Qué usar?
 ..* Sistema operativo `Gnu/linux`  
 ..* Libreria `ncurses.h`  
 ..* Compilador `g++`  
