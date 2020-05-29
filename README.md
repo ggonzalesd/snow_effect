@@ -7,14 +7,14 @@
 * Agregar el directorio `~/.local/bin/` al `PATH`
 
 ## Compilar/Ejecutar
-```console
+```sh
 g++ main.cpp -o main -lncurses  
 ./main
 ```
 
 ## Instalar
 Usar el siguiente código o copiar directamente el archivo `main` en el directorio `~/.local/bin/` con el nombre `snoweffect`  
-```console
+```sh
 g++ main.cpp -o main -lncurses  
 THIS_DIR=$(pwd)  
 cd ~  
@@ -25,6 +25,6 @@ cd $THIS_DIR
 ```
 
 ### Ejecutar despues de instalar
-```console
+```sh
 snoweffect  
 ```
