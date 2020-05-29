@@ -12,13 +12,15 @@
 
 ## Instalar
 Usar el siguiente código o copiar directamente el archivo `main` en el directorio `~/.local/bin/` con el nombre `snoweffect`  
-> g++ main.cpp -o main -lncurses  
-> THIS_DIR=$(pwd)  
-> cd ~  
-> if [ -d .local ]; then cd .local; else mkdir .local; cd .local; fi  
-> if [ -d bin ]; then cd bin; else mkdir bin; cd bin; fi  
-> cp "$THIS_DIR/main" snoweffect  
-> cd $THIS_DIR
+```
+g++ main.cpp -o main -lncurses  
+THIS_DIR=$(pwd)  
+cd ~  
+if [ -d .local ]; then cd .local; else mkdir .local; cd .local; fi  
+if [ -d bin ]; then cd bin; else mkdir bin; cd bin; fi  
+cp "$THIS_DIR/main" snoweffect  
+cd $THIS_DIR
+```
 
 ### Ejecutar despues de instalar
 > snoweffect  
